@@ -1,0 +1,16 @@
+1
+Mã phương thức:301 - Phương thức Xét tuyển thẳng theo quy định của Quy chế tuyển sinh (Điều 8)
+2
+Mã phương thức:302 - Phương thức Xét kết hợp giữa tuyển thẳng theo Đề án và các phương thức khác
+3
+Mã phương thức:303 - Phương thức Xét tuyển thẳng theo Đề án của CSĐT
+4
+Mã phương thức:304 - Phương thức Ưu tiên xét tuyển thẳng theo Đề án của CSĐT (Ưu tiên xét tuyển thẳng vào tất cả các ngành)
+5
+Mã phương thức:304 -Phương thức Ưu tiên xét tuyển thẳng theo Đề án của CSĐT (Tuyển thẳng vào chương trình tài năng)
+6
+Mã phương thức:401 - Thi đánh giá năng lực, đánh giá tư duy do CSĐT tự tổ chức để xét tuyển
+7
+Mã phương thức:408 - Chỉ sử dụng chứng chỉ quốc tế để xét tuyển
+8
+Mã phương thức:410 - Phương thức Kết hợp kết quả học tập cấp THPT với chứng chỉ quốc tế để xét tuyển - Mã phương thức xét tuyển

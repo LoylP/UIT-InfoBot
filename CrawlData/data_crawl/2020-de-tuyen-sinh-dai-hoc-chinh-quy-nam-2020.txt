@@ -1,0 +1,3901 @@
+ĐỀ ÁN TUYỂN SINH ĐẠI HỌC CHÍNH QUY NĂM 2020
+I. Thông tin chung(tính đến thời điểm xây dựng đề án)
+1. Tên trường, sứ mệnh, địa chỉ các trụ sở (trụ sở chính và phân hiệu) và địa chỉ trang thông tin điện tử của trường
+Tên trường: Trường Đại học Công nghệ Thông tin – ĐHQG.HCM
+Địa chỉ: Khu phố 6, Phường Linh Trung, Quận Thủ Đức, TP. HCM
+Website:www.uit.edu.vn
+Sứ mệnh:
+- Trường Đại học Công nghệ Thông tin là một trung tâm đào tạo đại học, sau đại học cung cấp nguồn nhân lực chất lượng cao, nhằm đáp ứng nhu cầu của thị trường lao động và phục vụ cộng đồng.
+- Trường Đại học Công nghệ Thông tin là một trung tâm hàng đầu về nghiên cứu khoa học và chuyển giao công nghệ về công nghệ thông tin – truyền thông và các lĩnh vực liên quan.
+2. Quy mô đào tạo chính quy đến 31/12/ 2019(người học)
+STT
+
+Loại chỉ tiêu
+
+Quy mô theo khối ngành đào tạo
+Tổng
+Khối ngành I
+Khối ngành II
+Khối ngành III
+Khối ngành IV
+Khối ngành V
+Khối ngành VI
+Khối ngành VII
+I
+Chính quy
+1
+Sau đại học
+1.1
+Tiến sĩ
+1.1.1
+Khoa học máy tính
+16
+16
+1.1.2
+Công nghệ thông tin
+7
+7
+1.2
+Thạc sĩ
+1.2.1
+Khoa học máy tính
+138
+138
+1.2.2
+Hệ thống thông tin
+5
+5
+1.2.3
+Công nghệ thông tin
+195
+195
+2
+Đại học
+2.1
+Chính quy
+2.1.1
+Các ngành đào tạo trừ ngành đào tạo ưu tiên
+2.1.1.1
+Thương mại điện tử
+123
+123
+2.1.2
+Các ngành đào tạo ưu tiên
+2.1.2.1
+Công nghệ thông tin
+759
+759
+2.1.2.2
+Khoa học máy tính
+810
+810
+2.1.2.3
+Mạng máy tính và truyền thông dữ liệu
+652
+652
+2.1.2.4
+Kỹ thuật phần mềm
+1087
+1087
+2.1.2.5
+Hệ thống thông tin
+1156
+1156
+2.1.2.6
+Kỹ thuật máy tính
+750
+750
+2.1.2.7
+An toàn thông tin
+592
+592
+2.1.2.8
+Khoa học dữ liệu
+59
+59
+2.2
+Đào tạo chính quy đối với người đã có bằng tốt nghiệp trình độ đại học trở lên
+2.2.1
+Công nghệ thông tin
+3
+3
+
+3. Thông tin về tuyển sinh chính quy của 2 năm gần nhất
+3.1. Phương thức tuyển sinh của 2 năm gần nhất (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển):Xét tuyển.
+3.2. Điểm trúng tuyển của 2 năm gần nhất (nếu lấy từ kết quả của Kỳ thi THPT quốc gia)
+
+Khối ngành/ Ngành/ Nhóm ngành/tổ hợp xét tuyển
+Mã ngành
+Năm tuyển sinh 2018
+Năm tuyển sinh 2019
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Khối ngành III
+- Ngành Thương mại điện tử
+7340122
+80
+78
+21.2
+40
+50
+23.9
+Tổ hợp 1: A00
+26
+16
+Tổ hợp 2: A01
+17
+19
+Tổ hợp 3: D01
+20
+3
+Khác:
+12
+- Ngành Thương mại điện tử chương trình chất lượng cao
+7340122-CLCA
+15
+45
+73
+21.05
+Tổ hợp 1: A00
+24
+Tổ hợp 2: A01
+26
+Tổ hợp 3: D01
+13
+Khác:
+10
+Khối ngành V
+- Ngành Khoa học máy tính
+7480101
+90
+95
+22.4
+100
+132
+24.55
+Tổ hợp 1: A00
+37
+65
+Tổ hợp 2: A01
+20
+45
+Tổ hợp 3: D01
+4
+4
+Khác:
+34
+18
+-Ngành Khoa học máy tính chương trình chất lượng cao
+7480101- CLCA
+90
+114
+20.3
+105
+129
+22.65
+Tổ hợp 1: A00
+45
+45
+Tổ hợp 2: A01
+54
+53
+Tổ hợp 3: D01
+6
+9
+Khác:
+9
+22
+- Ngành Mạng máy tính và truyền thông dữ liệu
+7480102
+80
+69
+21.2
+75
+88
+23.2
+Tổ hợp 1: A00
+38
+26
+Tổ hợp 2: A01
+15
+26
+Tổ hợp 3: D01
+4
+2
+Khác:
+12
+34
+-Ngành Mạng máy tính và truyền thông dữ liệu chương trình chất lượng cao
+7480102- CLCA
+50
+72
+18.6
+80
+96
+20
+Tổ hợp 1: A00
+29
+40
+Tổ hợp 2: A01
+23
+30
+Tổ hợp 3: D01
+20
+15
+Khác:
+11
+-Ngành Kỹ thuật phần mềm
+7480103
+100
+97
+23.2
+100
+114
+25.3
+Tổ hợp 1: A00
+30
+37
+Tổ hợp 2: A01
+24
+29
+Tổ hợp 3: D01
+1
+1
+Khác:
+42
+47
+-Ngành Kỹ thuật phần mềm chương trình chất lượng cao
+100
+93
+21.5
+120
+137
+23.2
+Tổ hợp 1: A00
+31
+30
+Tổ hợp 2: A01
+7480103-CLCA
+31
+62
+Tổ hợp 3: D01
+4
+8
+Khác:
+27
+37
+- Ngành Hệ thống thông tin
+7480104
+60
+57
+21.1
+70
+80
+23.5
+Tổ hợp 1: A00
+28
+27
+Tổ hợp 2: A01
+13
+22
+Tổ hợp 3: D01
+5
+5
+Khác:
+11
+26
+- Ngành Hệ thống thông tin chương trình tiên tiến
+7480104-TT
+40
+51
+17
+50
+72
+17.8
+Tổ hợp 1: A00
+22
+20
+Tổ hợp 2: A01
+12
+25
+Tổ hợp 3: D01
+17
+22
+Khác:
+5
+- Ngành Hệ thống thông tin chương trình chất lượng cao
+7480104-CLCA
+50
+70
+19
+60
+77
+21.4
+Tổ hợp 1: A00
+36
+25
+Tổ hợp 2: A01
+21
+25
+Tổ hợp 3: D01
+11
+13
+Khác:
+2
+14
+- Ngành Công nghệ thông tin
+7480201
+140
+146
+22.5
+100
+124
+24.65
+Tổ hợp 1: A00
+64
+46
+Tổ hợp 2: A01
+18
+40
+Tổ hợp 3: D01
+16
+7
+Khác:
+49
+31
+- Ngành An toàn thông tin
+7480202
+70
+77
+22.3
+60
+72
+24.45
+Tổ hợp 1: A00
+29
+22
+Tổ hợp 2: A01
+20
+14
+Tổ hợp 3: D01
+3
+0
+Khác:
+25
+36
+- Ngành An toàn thông tin chương trình chất lượng cao
+7480202-CLCA
+50
+67
+20.1
+70
+87
+22
+Tổ hợp 1: A00
+23
+25
+Tổ hợp 2: A01
+30
+27
+Tổ hợp 3: D01
+8
+4
+Khác:
+6
+31
+- Ngành Kỹ thuật máy tính
+7480106
+70
+74
+21.7
+80
+85
+23.8
+Tổ hợp 1: A00
+39
+35
+Tổ hợp 2: A01
+25
+23
+Tổ hợp 3: D01
+2
+0
+Khác:
+8
+27
+- Ngành Kỹ thuật máy tính chương trình chất lượng cao
+7480106-CLCA
+80
+112
+18.4
+85
+109
+21
+Tổ hợp 1: A00
+51
+42
+Tổ hợp 2: A01
+49
+48
+Tổ hợp 3: D01
+11
+7
+Khác:
+1
+12
+- Ngành Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre)
+7480106-BT
+65
+7
+20.5
+70
+2
+22.9
+Tổ hợp 1: A00
+6
+1
+Tổ hợp 2: A01
+0
+Tổ hợp 3: D01
+1
+0
+Khác:
+1
+-Ngành Công nghệ thông tin (chất lượng cao định hướng Nhật Bản)
+7480201-CLCN
+50
+78
+19
+110
+126
+21.3
+Tổ hợp 1: A00
+27
+39
+Tổ hợp 2: A01
+37
+42
+Tổ hợp 3: D01
+9
+13
+Khác:
+5
+32
+- Ngành Khoa học dữ liệu (Năm 2018 là chuyên ngành)
+7480109
+50
+54
+20.6
+50
+60
+23.5
+Tổ hợp 1: A00
+29
+20
+Tổ hợp 2: A01
+14
+16
+Tổ hợp 3: D01
+7
+3
+Khác:
+4
+21
+Tổng
+
+1315
+1411
+
+1470
+1713
+II. Thông tin về các điều kiện đảm bảo chất lượng
+1. Cơ sở vật chất phục vụ đào tạo và nghiên cứu:
+1.1. Thống kê số lượng, diện tích đất, diện tích sàn xây dựng, ký túc xá:
+-Tổng diện tích đất của trường: 133.900 m2
+- Diện tích sàn xây dựng trực tiếp phục vụ đào tạo thuộc sở hữu của cơ sở đào tạo tính trên một sinh viên chính quy (Hội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu, thư viện, trung tâm học liệu, trung tâm nghiên cứu, phòng thí nghiệm, thực nghiệm, cơ sở thực hành, thực tập, luyện tập): 35.706 m2
+- Số chỗ ở ký túc xá sinh viên (nếu có): dùng chung ĐHQG.
+Stt
+Loại phòng
+Số lượng
+Diện tích sàn xây dựng (m2)
+1
+Hội trường, giảng đường, phòng học các loại, phòng đa năng, phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu
+155
+25053
+1.1.
+Hội trường, phòng học lớn trên 200 chỗ
+01
+400
+1.2.
+Phòng học từ 100 - 200 chỗ
+21
+5250
+1.3.
+Phòng học từ 50 - 100 chỗ
+68
+13200
+1.4.
+Số phòng học dưới 50 chỗ
+41
+4428
+1.5
+Số phòng học đa phương tiện
+01
+135
+1.6
+Phòng làm việc của giáo sư, phó giáo sư, giảng viên cơ hữu
+28
+1640
+2.
+Thư viện, trung tâm học liệu
+1
+1266
+3.
+Trung tâm nghiên cứu, phòng thí nghiệm, thực nghiệm, cơsở thực hành, thực tập, luyện tập
+29
+7958
+Tổng
+340
+59330
+
+1.2. Thống kê các phòng thực hành, phòng thí nghiệm và các trang thiết bị
+Stt
+Tên
+Dạnh mục trang thiết bị chính
+Phục vụNgành/Nhóm ngành/Khối ngànhđào tạo
+1.
+Phòng thực hành: 15 phòng
+- Bàn + ghế thực hành sinh viên, Bàn + ghế giảng viên, máy chủ, máy tính thực hành, hệ thống âm thanh: Micro không dây + loa, máy chiếu, màn chiếu, bảng viết mika, trang bị máy lạnh toàn bộ các phòng máy.
+- - Khối ngành III
+- - Khối ngành V
+2.
+Phòng thí nghiệm truyền thông đa phương tiện: 01 phòng
+Bàn, ghế sinh viên, bàn ghế giảng viên, bàn, ghế phòng họp, máy chiếu, màn chiếu, máy in, điện thoại, máy laptop, máy tính bảng, máy nước nóng lạnh, các thiết bị phục vụ nghiên cứu.
+Chi tiết:
+- Máy tính để bàn Thin Client: XPS 8700 Desktop, 4th Generation Intel(R) Core(TM) i7-4790 processor (8M Cache, up to 4.00 GHz), XPS 8700, Black Chassis, 32GB Dual Channel DDR3 1600MHz (8GBx4).
+- Sách nghiên cứu về xử lý multimedia, lập trình hệ thống nhúng, lập trình game, Sony PlayStation 4 DualShock 4 Bundle.
+- Phụ kiện: Dây nguồn, dây HDMI, T\tay cầm điều kiện PS4, tai nghe headphone, dây USB → mini USB, tài liệu hướng dẫn, Switch - L2 Switch 16 ports Dlink DGS-1016D, Thiết bị camera ngoài trời cố định Foscam, Xbox One + Kinect Xbox One console – 1540, …
+- - Khối ngành V
+3
+Phòng thí nghiệm hệ thống thông tin: 01 phòng
+Bàn, ghế sinh viên, bàn ghế giảng viên, bàn, ghế phòng họp, máy chiếu, màn chiếu, máy in, điện thoại, máy laptop, máy nước nóng lạnh, các thiết bị thí nghiệm phục vụ nghiên cứu, máy tính bộ.
+Chi tiết: desktop HP Compaq Pro 6300 MT PC QV983AV. Intel Core i7-3770 CPU, 4GB DDR3-1600 DIMM (1x4GB) RAM, 500GB 7200 RPM 3.5 HDD. Monitor: HP Compaq LE2002x 20-inch LED Backlit LCD, Hệ thống đám mây (cloud),…
+- Khối ngành III
+- Khối ngành V
+4
+Phòng thí nghiệm an toàn thông tin: 01 phòng
+Bàn, ghế sinh viên, bàn ghế giảng viên, bàn, ghế phòng họp, máy chiếu, màn chiếu, máy in, điện thoại, máy laptop, máy nước nóng lạnh, các thiết bị thí nghiệm phục vụ nghiên cứu.
+Chi tiết:
+- Switch layer 2 Catalyst 2960-X 24 GigE, Router Cisco ISR 4321, Switch layer 3 Cisco Catalyst 3850 24 Port Data IP Base, ASA 5512-X with SW, 6GE Data, 1GE Mgmt, AC, 3DES/AES, Access Point AIR-AP2702E-UXZBLK.
+- Màn hình LED 60 inches Samsung 60J6200.
+- Máy tính DELL, Tủ Rack 42U, Thiết bị An Ninh WEB.
+Thiết bị mạng, Switch Arista 7050S-52, Switch Cisco Nexus 3548, Nexus 3548-X 48 SFP+ ports, Enhanced, Màn hình LCD Dell, Máy tính để bàn DELL, Tivi LED Sony, TELOSB MOTE PLATFORM, MCS410CA, Ethernet Interface Board, CC2530 ZigBee Development Kit, CC2531EM-IOT-HOME-GATEWAY-RD, Bộ phát WIFI LINKSYS WRT54G Wireless Router, Màn hình LCD Dell, KVM Switch D-Link 4U, SF90D-16 16-Port 10/100 Desktop Switch, Integrated Services Router CISCO C1921 Modular Router 2 GE 2 EHWIC slots 512DRAM IP Base, Security Router CISCO ASA 5505 Appliance with SW, 10 Users, 8 ports, 3DES/AES, Beaglebone Black, Access point AIR-AP3802I-S-K9, Arduino Due, Arduino Nano, Arduino Pro Mini ATmega328P 5V, Arduino Pro Micro, Module RFID RC522 NFC 13.56mhz, Tah IO, Spark-photon, Spark Electron, Spark Core, USB UART CP2102, Ethernet ENC28J60.
+- Khối ngành V
+5
+Phòng thí nghiệm IoTs
+Máy tính, máy chủ, các thiết bị lien quan đến lưu trữ dữ liệu và thí nghiệm cho sinh viên, giảng viên: Hạ tầng thiết bị đầu cuối, thiết bị lưu trữ phục vụ phát triển ứng dụng và phần mềm mạng ko dây thế hệ mới, Hạ tầng mạng không dây thế hệ mới (3G/4G/5G), SDN/NFV/CDN, software defined radios, femtocells, và thiết bị đo, phân tích, Hạ tầng mạng nội bộ tốc độ cao (high-speed networks), Chế tạo thiết bị IoTs/Industry4.0, giải pháp cứng hóa phần mềm để tăng tốc độ xử lý, Nghiên cứu phát triển ứng dụng IoTs/Industry4.0 và giải pháp IoTs/Industry4.0 thông minh, Nghiên cứu phát triển OEM ứng dụng và giải pháp mạng không dây, IoTs/Industry4.0 dựa trên thiết bị OEM, ….
+- Khối ngành III
+- Khối ngành V
+6
+Các phòng thí nghiệm khác (phục vụ cho sinh viên cần không gian riêng để nghiên cứu): 3 phòng
+Bàn, ghế sinh viên, bàn ghế giảng viên, bàn, ghế họp, ghế quầy bar + quầy bar.
+- Khối ngành III
+- Khối ngành V
+1.3. Thống kê về học liệu (giáo trình, học liệu, tài liệu, sách tham khảo…sách, tạp chí, kể cả e-book, cơ sở dữ liệu điện tử) trong thư viện
+Stt
+Khối ngành đào tạo/Nhóm ngành
+Số lượng
+1.
+Khối ngành/Nhóm ngành I
+2.
+Khối ngành II
+3.
+Khối ngành III
++ Sách: 399 nhan đề/ >2.386 cuốn. Ngoài ra còn dùng chung nguồn tư liệu của các thư viện trong hệ thống thư viện ĐHQG-HCM (tất cả 07 thư viện thành viên trong hệ thống).
++ Tạp chí: Dùng chung các tạp chí điện tử trong các cơ sở dữ liệu của Thư viện Trung tâm ĐHQG-HCM
++ Ebook: 3109 file tài liệu số nội sinh + 01 Cơ sở dữ liệu Ebook dùng chung của Thư viện Trung tâm ĐHQG-HCM.
++ Cơ sở dữ liệu: Dùng chung các cơ sở dữ liệu của Thư viện Trung tâm ĐHQG-HCM (24 cơ sở dữ liệu mua có bản quyền)
+4.
+Khối ngành IV
+5.
+Khối ngành V
++ Sách: 700 nhan đề/ >10.000 cuốn. Ngoài ra còn dùng chung nguồn tư liệu của các thư viện trong hệ thống thư viện ĐHQG-HCM (tất cả 07 thư viện thành viên trong hệ thống).
++ Tạp chí: Dùng chung các tạp chí điện tử trong các cơ sở dữ liệu của Thư viện Trung tâm ĐHQG-HCM
++ Ebook: 5000 file tài liệu số nội sinh + 01 Cơ sở dữ liệu Ebook dùng chung của Thư viện Trung tâm ĐHQG-HCM.
++ Cơ sở dữ liệu: Dùng chung các cơ sở dữ liệu của Thư viện Trung tâm ĐHQG-HCM (24 cơ sở dữ liệu mua có bản quyền)
+6.
+Khối ngành VI
+7.
+Khối ngành VII
+1.4. Danh sáchgiảng viên cơ hữu chủ trì giảng dạy và tính chỉ tiêu tuyển sinh - trình độ đại học.
+TT
+Họ và tên
+Giới tính
+Chức danh khoa học
+Trình độ
+Chuyên môn được đào tạo
+Giảng dạy môn chung
+Ngành/ trình độ chủ trì giảng dạy và tính chỉ tiêu tuyển sinh
+Cao đẳng
+Đại học
+Mã
+Tên ngành
+Mã
+Tên ngành
+1
+Bùi Thanh Bình
+Nam
+Thạc sĩ
+Mạng máy tính
+7480202
+An toàn thông tin
+2
+Bùi Thị Thanh Bình
+Nữ
+Thạc sĩ
+Mạng máy tính
+7480103
+Kỹ thuật phần mềm
+3
+Bùi Văn Thành
+Nam
+Thạc sĩ
+Tin học
+7480202
+An toàn thông tin
+4
+Cao Thanh Tình
+Nam
+Tiến sĩ
+Lý thuyết tối ưu
+x
+5
+Cao Thị Nhạn
+Nữ
+Tiến sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+6
+Cao Văn Hưng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+7
+Cáp Phạm Đình Thăng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+8
+Chung Quang Khánh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+9
+Đàm Quang Hồng Hải
+Nam
+Tiến sĩ
+Điện tử-Công nghệ máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+10
+Đặng Lê Bảo Chương
+Nam
+Thạc sĩ
+Khoa học máy tính
+7340122
+Thương mại điện tử
+11
+Đặng Lệ Thúy
+Nữ
+Thạc sĩ
+Toán (giải tích)
+x
+12
+Đặng Văn Em
+Nam
+Thạc sĩ
+Mạng máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+13
+Đặng Văn Thìn
+Nam
+Đại học
+Khoa học máy tính
+7480101
+Khoa học máy tính
+14
+Đào Minh Sơn
+Nam
+Tiến sĩ
+CNTT& Viễn thông
+7340122
+Thương mại điện tử
+15
+Đào Thị Thu Hà
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+16
+Đinh Đức Anh Vũ
+Nam
+Phó giáo sư
+Tiến sĩ
+Kĩ thuật máy tính
+7480106
+Kỹ thuật máy tính
+17
+Đinh Nguyễn Anh Dũng
+Nam
+Thạc sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+18
+Đỗ Duy Thanh
+Nam
+Thạc sĩ
+Kinh doanh điện tử
+7340122
+Thương mại điện tử
+19
+Đỗ Hoàng Hiển
+Nam
+Đại học
+Truyền thông và Mạng máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+20
+Đỗ Phúc
+Nam
+Phó giáo sư
+Tiến sĩ
+Đảm bảo toán học cho máy tính và HT tính toán
+7480104
+Hệ thống thông tin
+21
+Đỗ Thị Hương Lan
+Nữ
+Thạc sĩ
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+22
+Đỗ Thị Minh Phụng
+Nữ
+Thạc sĩ
+Tin học
+7340122
+Thương mại điện tử
+23
+Đỗ Thị Thanh Tuyền
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+24
+Đỗ Thị Thu Hiền
+Nữ
+Đại học
+Công nghệ Thông tin
+7480102
+Mạng máy tính và truyền thông dữ liệu
+25
+Đỗ Trọng Hợp
+Nam
+Tiến sĩ
+Công nghệ thông tin & Viễn thông
+7480201
+Công nghệ thông tin
+26
+Đỗ Văn Tiến
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+27
+Đoàn Duy
+Nam
+Tiến sĩ
+Khoa học thông tin
+7480104
+Hệ thống thông tin
+28
+Dương Chí Nhân
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+29
+Dương Kim Thùy Linh
+Nữ
+Thạc sĩ
+Quan hệ quốc tế
+x
+30
+Dương Minh Đức
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+31
+Dương Ngọc Hảo
+Nam
+Tiến sĩ
+Cơ học
+x
+32
+Hà Lê Hoài Trung
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+33
+Hà Mạnh Linh
+Nam
+Thạc sĩ
+Lý thuyết xác xuất&thống kê
+x
+34
+Hồ Long Vân
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+35
+Hồ Ngọc Diễm
+Nữ
+Thạc sĩ
+Vi hệ thống
+7480106
+Kỹ thuật máy tính
+36
+Hồ Thị Minh Anh
+Nữ
+Tiến sĩ
+Trí tuệ nhân tạo
+7480201
+Công nghệ thông tin
+37
+Hồ Thị Nhiên Trinh
+Nữ
+Thạc sĩ
+LL&PP dạy học Tiếng Anh
+x
+38
+Hồ Thị Thanh Thảo
+Nữ
+Thạc sĩ
+Mạng máy tính
+7480201
+Công nghệ thông tin
+39
+Hồ Trần Nhật Thủy
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7340122
+Thương mại điện tử
+40
+Hoàng Trọng Nghĩa
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+41
+Hoàng Văn Hà
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+42
+Huỳnh Đức Huy
+Nam
+Thạc sĩ
+Khoa học máy tính
+7340122
+Thương mại điện tử
+43
+Huỳnh Hồ Thị Mộng Trinh
+Nữ
+Đại học
+Kỹ thuật phần mềm
+7480202
+An toàn thông tin
+44
+Huỳnh Hữu Việt
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+45
+Huỳnh Ngọc Tín
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480103
+Kỹ thuật phần mềm
+46
+Huỳnh Nguyễn Khắc Huy
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+47
+Huỳnh Thị Thanh Thương
+Nữ
+Thạc sĩ
+Đảm bảo toán học cho máy tính và HT tính toán
+7480109
+Khoa học dữ liệu
+48
+Huỳnh Thiện Ý
+Nam
+Đại học
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+49
+Huỳnh Tuấn Anh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+50
+Huỳnh Văn Đặng
+Nam
+Đại học
+Truyền thông & Mạng máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+51
+Lâm Đức Khải
+Nam
+Tiến sĩ
+Hệ thống thông tin
+7480106
+Kỹ thuật máy tính
+52
+Lâm Xuân Nhật
+Nam
+Tiến sĩ
+Hệ thống thông tin
+7480104
+Hệ thống thông tin
+53
+Lầu Phi Tường
+Nam
+Thạc sĩ
+Khoa học & kĩ thuật máy tính
+7480106
+Kỹ thuật máy tính
+54
+Lê Đình Duy
+Nam
+Phó giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+55
+Lê Đức Thắng
+Nam
+Tiến sĩ
+Kĩ thuật máy tính
+7480104
+Hệ thống thông tin
+56
+Lê Đức Thịnh
+Nam
+Thạc sĩ
+Công nghệ Thông tin
+7480202
+An toàn thông tin
+57
+Lê Hoài Nghĩa
+Nam
+Thạc sĩ
+Tin học
+7480106
+Kỹ thuật máy tính
+58
+Lê Hoàng Tuấn
+Nam
+Thạc sĩ
+Xác xuất-thống kê
+x
+59
+Lê Huỳnh Mỹ Vân
+Nữ
+Thạc sĩ
+Toán học
+x
+60
+Lê Kim Hùng
+Nam
+Tiến sĩ
+Internet of Things
+7480104
+Hệ thống thông tin
+61
+Lê Minh Hưng
+Nam
+Tiến sĩ
+Thông tin & Kỹ thuật truyền thông
+7480103
+Kỹ thuật phần mềm
+62
+Lê Minh Khánh Hội
+Nữ
+Đại học
+Truyền thông & Mạng máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+63
+Lê Ngô Thục Vi
+Nữ
+Thạc sĩ
+Hệ thống thông tin
+7340122
+Thương mại điện tử
+64
+Lê Nguyễn Bảo Thư
+Nữ
+Thạc sĩ
+Quang học
+x
+65
+Lê Thanh Trọng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+66
+Lê Trung Quân
+Nam
+Phó giáo sư
+Tiến sĩ
+Mạng máy tính (mạng không dây)
+7480102
+Mạng máy tính và truyền thông dữ liệu
+67
+Lê Trường An
+Nam
+Thạc sĩ
+Giáo dục học
+x
+68
+Lê Văn Sáng
+Nam
+Tiến sĩ
+Vật lý lý thuyết & Vật lý Toán
+x
+69
+Lương Ngọc Hoàng
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+70
+Lưu Khoa
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+71
+Lưu Thanh Sơn
+Nam
+Đại học
+Khoa học máy tính
+7480101
+Khoa học máy tính
+72
+Lý Trọng Nhân
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+73
+Mai Tiến Dũng
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+74
+Mai Trọng Khang
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+75
+Mai Văn Cường
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+76
+Mai Xuân Hùng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+77
+Nghi Hoàng Khoa
+Nam
+Đại học
+Công nghệ thông tin
+7480202
+An toàn thông tin
+78
+Ngô Đức Thành
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+79
+Ngô Hiếu Trường
+Nam
+Đại học
+Kỹ thuật máy tính
+7480106
+Kỹ thuật máy tính
+80
+Ngô Quốc Hưng
+Nam
+Thạc sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+81
+Ngô Thị Mỹ Ngọc
+Nữ
+Thạc sĩ
+Tài chính
+x
+82
+Ngô Tuấn Kiệt
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480109
+Khoa học dữ liệu
+83
+Nguyễn Anh Tuấn
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+84
+Nguyễn Bích Vân
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+85
+Nguyễn Công Hoan
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+86
+Nguyễn Đình Hiển
+Nam
+Thạc sĩ
+Đảm bảo toán học cho máy tính và HT tính toán
+7480101
+Khoa học máy tính
+87
+Nguyễn Đình Khương
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+88
+Nguyễn Đình Loan Phương
+Nữ
+Thạc sĩ
+Tin học
+7480104
+Hệ thống thông tin
+89
+Nguyễn Đình Quý
+Nam
+Thạc sĩ
+Hệ thống thông tin kinh doanh
+7480104
+Hệ thống thông tin
+90
+Nguyễn Đình Thuân
+Nam
+Phó giáo sư
+Tiến sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+91
+Nguyễn Đức Vũ
+Nam
+Đại học
+Khoa học máy tính
+7480101
+Khoa học máy tính
+92
+Nguyễn Duy
+Nam
+Thạc sĩ
+Mạng máy tính
+7480202
+An toàn thông tin
+93
+Nguyễn Duy Khánh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+94
+Nguyễn Duy Xuân Bách
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+95
+Nguyễn Gia Tuấn Anh
+Nam
+Tiến sĩ
+Đảm bảo toán học cho máy tính và HT tính toán
+7480201
+Công nghệ thông tin
+96
+Nguyễn Hải Thiện
+Nam
+Tiến sĩ
+Khoa học thông tin
+7480201
+Công nghệ thông tin
+97
+Nguyễn Hồ Duy Tri
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+98
+Nguyễn Hồ Duy Trí
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+99
+Nguyễn Hoàng Tú Anh
+Nữ
+Phó giáo sư
+Tiến sĩ
+Đảm bảo toán học cho máy tính và HT tính toán
+7480201
+Công nghệ thông tin
+100
+Nguyễn Hữu Lượng
+Nam
+Tiến sĩ
+Khoa học kỹ thuật
+7480103
+Kỹ thuật phần mềm
+101
+Nguyễn Huỳnh Quốc Việt
+Nam
+Thạc sĩ
+Kỹ thuật vô tuyến & Điện tử
+7480201
+Công nghệ thông tin
+102
+Nguyễn Kiên
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+103
+Nguyễn Lưu Thùy Ngân
+Nữ
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+104
+Nguyễn Mạnh Thảo
+Nam
+Đại học
+Kỹ thuật máy tính
+7480104
+Hệ thống thông tin
+105
+Nguyễn Minh Nghĩa
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+106
+Nguyễn Minh Sơn
+Nam
+Tiến sĩ
+Kỹ thuật điện tử
+7480106
+Kỹ thuật máy tính
+107
+Nguyễn Ngọc Ái Vân
+Nữ
+Tiến sĩ
+Toán học
+x
+108
+Nguyễn Ngọc Thành
+Nam
+Giáo sư
+Tiến sĩ
+Tin học
+7480101
+Khoa học máy tính
+109
+Nguyễn Ngọc Thừa
+Nam
+Đại học
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+110
+Nguyễn Nhật Duy
+Nam
+Đại học
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+111
+Nguyễn Phước Bảo Long
+Nam
+Thạc sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+112
+Nguyễn Phương Anh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+113
+Nguyễn Tấn Đạt
+Nam
+Tiến sĩ
+Kỹ thuật điện tử và máy tính
+7480101
+Khoa học máy tính
+114
+Nguyễn Tấn Toàn
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+115
+Nguyễn Tấn Trần Minh Khang
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+116
+Nguyễn Thanh Bình
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+117
+Nguyễn Thành Dương
+Nam
+Tiến sĩ
+Khoa học máy tính và Kỹ thuật hệ thống
+7480103
+Kỹ thuật phần mềm
+118
+Nguyễn Thanh Hòa
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+119
+Nguyễn Thanh Nam
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+120
+Nguyễn Thanh Sang
+Nam
+Thạc sĩ
+KT Điện tử-Vi điện tử
+7480106
+Kỹ thuật máy tính
+121
+Nguyễn Thanh Sơn
+Nam
+Thạc sĩ
+Tin học
+7480202
+An toàn thông tin
+122
+Nguyễn Thanh Thiện
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+123
+Nguyễn Thị Anh Thư
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+124
+Nguyễn Thị Diễm Thúy
+Nữ
+Thạc sĩ
+Quản lí giáo dục
+x
+125
+Nguyễn Thị Hạnh
+Nữ
+Thạc sĩ
+Thương mại
+7340122
+Thương mại điện tử
+126
+Nguyễn Thị Huỳnh Như
+Nữ
+Thạc sĩ
+LL&PP dạy học Tiếng Anh
+x
+127
+Nguyễn Thị Kim Phụng
+Nữ
+Thạc sĩ
+Tin học
+7480104
+Hệ thống thông tin
+128
+Nguyễn Thị Lan Hương
+Nữ
+Thạc sĩ
+LL&PP dạy học Tiếng Anh
+x
+129
+Nguyễn Thị Mộng Thy
+Nữ
+Thạc sĩ
+Lý luận & Phương pháp dạy học bộ môn Tiếng Anh
+x
+130
+Nguyễn Thị Ngọc Diễm
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+131
+Nguyễn Thị Quý
+Nữ
+Tiến sĩ
+Tin học
+7480202
+An toàn thông tin
+132
+Nguyễn Thị Thanh Trúc
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+133
+Nguyễn Tiến Vũ
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+134
+Nguyễn Trác Thức
+Nam
+Thạc sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+135
+Nguyễn Trang Nhung
+Nữ
+Thạc sĩ
+Lý luận & Phương pháp dạy học bộ môn Tiếng Anh
+x
+136
+Nguyễn Trí Phúc
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+137
+Nguyễn Trọng Chỉnh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+138
+Nguyễn Tuấn Nam
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480103
+Kỹ thuật phần mềm
+139
+Nguyễn Văn Kiệt
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+140
+Nguyễn Văn Tâm
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+141
+Nguyễn Văn Toàn
+Nam
+Thạc sĩ
+Tin học
+7480101
+Khoa học máy tính
+142
+Nguyễn Văn Xanh
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480104
+Hệ thống thông tin
+143
+Nguyễn Vĩnh Kha
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+144
+Nguyễn Vinh Tiệp
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+145
+Phạm Minh Quân
+Nam
+Thạc sĩ
+Cơ điện tử
+7480106
+Kỹ thuật máy tính
+146
+Phạm Nam Trung
+Nam
+Tiến sĩ
+Kỹ thuật điện tử và máy tính
+7480202
+An toàn thông tin
+147
+Phạm Nguyễn Trường An
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+148
+Phạm Thanh Hùng
+Nam
+Thạc sĩ
+KT điện tử - Vi điệnt ử
+7480106
+Kỹ thuật máy tính
+149
+Phạm Thế Sơn
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+150
+Phạm Thị Kiều Tiên
+Nữ
+Thạc sĩ
+Lý luận & Phương pháp dạy học bộ môn Tiếng Anh
+x
+151
+Phạm Thị Nhung
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+152
+Phạm Văn Hậu
+Nam
+Tiến sĩ
+Xử lí thông tin và Mạng máy tính
+7480202
+An toàn thông tin
+153
+Phan Đình Duy
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+154
+Phan Hoàng Chương
+Nam
+Thạc sĩ
+Vật lý
+x
+155
+Phan Nguyệt Minh
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+156
+Phan Quốc Huy
+Nam
+Tiến sĩ
+Kĩ thuật máy tính
+7480101
+Khoa học máy tính
+157
+Phan Quốc Tín
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+158
+Phan Thế Duy
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480202
+An toàn thông tin
+159
+Phan Trung Hiếu
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480103
+Kỹ thuật phần mềm
+160
+Quách Khả Gia
+Nam
+Tiến sĩ
+Khoa học máy tính
+7480109
+Khoa học dữ liệu
+161
+Tạ Thu Thủy
+Nữ
+Thạc sĩ
+Công nghệ Thông tin
+7480201
+Công nghệ thông tin
+162
+Tất Dương Khánh Linh
+Nữ
+Thạc sĩ
+LL&PP dạy học Bộ môn Tiếng Anh
+x
+163
+Thái Bảo Trân
+Nữ
+Thạc sĩ
+Tin học
+7480104
+Hệ thống thông tin
+164
+Thái Huy Tân
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+165
+Thái Thụy Hàn Uyển
+Nữ
+Thạc sĩ
+Kỹ thuật máy tính
+7480103
+Kỹ thuật phần mềm
+166
+Tô Nguyễn Nhật Quang
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+167
+Trần Anh Dũng
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480103
+Kỹ thuật phần mềm
+168
+Trần Bá Nhiệm
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+169
+Trần Đại Dương
+Nam
+Đại học
+Kĩ thuật máy tính
+7480106
+Kỹ thuật máy tính
+170
+Trần Hoàng Lộc
+Nam
+Đại học
+Kỹ thuật máy tính
+7480202
+An toàn thông tin
+171
+Trần Hồng Nghi
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+172
+Trần Hưng Nghiệp
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+173
+Trần Mạnh Hùng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+174
+Trần Ngọc Đức
+Nam
+Thạc sĩ
+KT Điện-Điện tử
+7480106
+Kỹ thuật máy tính
+175
+Trần Quang Nguyên
+Nam
+Thạc sĩ
+KT điện tử - Viễn thông máy tính
+7480106
+Kỹ thuật máy tính
+176
+Trần Thị Dung
+Nữ
+Thạc sĩ
+Công nghệ thông tin
+7480102
+Mạng máy tính và truyền thông dữ liệu
+177
+Trần Thị Như Nguyệt
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+178
+Trần Tuấn Dũng
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+179
+Trần Văn Quang
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480106
+Kỹ thuật máy tính
+180
+Trần Việt Xuân Phương
+Nam
+Tiến sĩ
+Mạng máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+181
+Trịnh Lê Huy
+Nam
+Tiến sĩ
+Kỹ thuật vô tuyến&Điện tử
+7480106
+Kỹ thuật máy tính
+182
+Trịnh Quốc Sơn
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+183
+Trình Trọng Tín
+Nam
+Thạc sĩ
+Quản lý Công nghệ thông tin
+7340122
+Thương mại điện tử
+184
+Trương Hải Bằng
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480202
+An toàn thông tin
+185
+Trương Thu Thủy
+Nữ
+Thạc sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+186
+Trương Văn Cương
+Nam
+Thạc sĩ
+Kỹ thuật Điện tử
+7480106
+Kỹ thuật máy tính
+187
+Văn Đức Sơn Hà
+Nam
+Thạc sĩ
+Khoa học máy tính
+7340122
+Thương mại điện tử
+188
+Võ Duy Nguyên
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+189
+Võ Lê Phương
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+190
+Võ Ngọc Tân
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480201
+Công nghệ thông tin
+191
+Võ Tấn Khoa
+Nam
+Thạc sĩ
+Công nghệ Thông tin
+7480201
+Công nghệ thông tin
+192
+Võ Thị Thanh Lý
+Nữ
+Thạc sĩ
+Tiếng anh- Ngôn ngữ ứng dụng
+x
+193
+Vũ Đức Lung
+Nam
+Phó giáo sư
+Tiến sĩ
+Phân tích hệ thống, điều khiển và xử lí thông tin
+7480106
+Kỹ thuật máy tính
+194
+Vũ Minh Sang
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+.5. Danh sáchgiảng viên thỉnh giảng tham gia giảng dạy và tính chỉ tiêu tuyển sinh trình độ đại học
+TT
+Họ và tên
+Giới tính
+Chức danh khoa học
+Trình độ
+Chuyên môn được đào tạo
+Giảng dạy môn chung
+Ngành/ trình độ chủ trì giảng dạy và tính chỉ tiêu tuyển sinh
+Thâm niên công tác (bắt buộc với các ngành ưu tiên mà trường đăng ký đào tạo)
+Tên doanh nghiệp (bắt buộc với các ngành ưu tiên mà trường đăng ký đào tạo)
+Đại học
+Mã
+Tên ngành
+1
+Bùi Lê Trọng Thanh
+Nam
+Tiến sĩ
+Toán
+x
+10
+Trường Đại học Khoa học Tự nhiên
+2
+Bùi Thị Danh
+Nữ
+Thạc sĩ
+Công nghệ thông tin
+7480106
+Kỹ thuật máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+3
+Bùi Văn Mưa
+Nam
+Tiến sĩ
+Triết học
+x
+35
+Trường Đại học Kinh tế Hồ Chí Minh
+4
+Bùi Việt Hưng
+Nam
+Tiến sĩ
+Toán-Tin học
+7480104
+Hệ thống thông tin
+26
+Trường Đại học Khoa học Tự nhiên
+5
+Cao Trần Bảo Thương
+Nam
+Thạc sĩ
+Vật lí vô tuyến và điện tử
+x
+14
+Trường Đại học Khoa học Tự nhiên
+6
+Chế Viết Nhật Anh
+Nam
+Tiến sĩ
+Xử Lý Tín Hiệu, Hình ảnh, Âm Thanh
+7480103
+Kỹ thuật phần mềm
+16
+Trường Đại Học Bách Khoa
+7
+Cyrus Shahabi
+Nam
+Giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+22
+Đại học Nam California, Hoa Kỳ
+8
+Đặng Trần Khánh
+Nam
+Phó giáo sư
+Tiến sĩ
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+22
+Trường Đại Học Bách Khoa
+9
+Đậu Ngọc Hà Dương
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+12
+Trường Đại học Khoa học Tự nhiên
+10
+David Cline
+Nam
+Giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480202
+An toàn thông tin
+22
+Trường Đại học Bang Oklahoma, Mỹ
+11
+Đinh Điền
+Nam
+Phó giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+31
+Trường Đại học Khoa học Tự nhiên
+12
+Đinh Khắc Quyền
+Nam
+Thạc sĩ
+Tin học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+40
+Trường Đại học Công nghệ Thông tin
+13
+Đỗ Văn Nhơn
+Nam
+Phó giáo sư
+Tiến sĩ
+Tin học
+7480202
+An toàn thông tin
+35
+Trường Đại học Mở
+14
+Đoàn Xuân Huy Minh
+Nam
+Tiến sĩ
+Quản trị Thông tin
+7480104
+Hệ thống thông tin
+16
+Viện Khoa học và Công nghệ tính toán
+15
+Doug Heisterkamp
+Nam
+Giáo sư
+Tiến sĩ
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+22
+Đại học Oklahoma, Hoa Kỳ
+16
+Dương Đặng Xuân Thành
+Nam
+Tiến sĩ
+Toán - Tin học
+7480104
+Hệ thống thông tin
+15
+Viện John von Neumann
+17
+Dương Nguyên Vũ
+Nam
+Giáo sư
+Tiến sĩ
+Trí tuệ nhân tạo
+7480101
+Khoa học máy tính
+40
+Viện John von Neumann
+18
+Dương Thị Hoàng Oanh
+Nữ
+Phó giáo sư
+Tiến sĩ
+Tiếng Anh
+x
+22
+Trường Đại học Quốc gia Hồ Chí Minh
+19
+Dương Thị Thúy Nga
+Nữ
+Tiến sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+19
+Trường Đại học Khoa học Tự nhiên
+20
+Dương Tôn Đảm
+Nam
+Tiến sĩ
+Toán-Tin học
+x
+45
+Trường Đại học Công nghệ Thông tin
+21
+Dương Trọng Hải
+Nam
+Tiến sĩ
+Công nghệ Thông tin
+7480103
+Kỹ thuật phần mềm
+16
+Trường Đại học Quốc tế
+22
+Hà Văn Thảo
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+22
+Trường Đại học Khoa học Tự nhiên
+23
+Hồ Bảo Quốc
+Nam
+Phó giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480101
+Khoa học máy tính
+32
+Trường Đại học Khoa học Tự nhiên
+24
+Hồ Hải
+Nam
+Thạc sĩ
+Mạng máy tính và Truyền thông
+7480201
+Công nghệ thông tin
+16
+Trường Đại học Quốc gia Hồ Chí Minh
+25
+Hồ Thị Thanh Tuyến
+Nữ
+Thạc sĩ
+Công nghệ Thông tin
+7480106
+Kỹ thuật máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+26
+Hoàng Anh Tú
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480104
+Hệ thống thông tin
+10
+Trường Đại học Khoa học Tự nhiên
+27
+Huỳnh Quang Vũ
+Nam
+Tiến sĩ
+Toán - Tin học
+7480101
+Khoa học máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+28
+Huỳnh Thị Nam Hải
+Nam
+Thạc sĩ
+Luật hợp tác kinh tế quốc tế
+7480104
+Hệ thống thông tin
+11
+Đại học Kinh Tế luật
+29
+Lê Đình Thuận
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+22
+Trường Đại Học Bách Khoa
+30
+Lê Hoài Bắc
+Nam
+Giáo sư
+Tiến sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+34
+Trường Đại học Khoa học Tự nhiên
+31
+Lê Hoàng Quân
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+22
+Trường Đại học Quốc gia Hồ Chí Minh
+32
+Lê Hoàng Thái
+Nam
+Phó giáo sư
+Tiến sĩ
+Tin học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+25
+Trường Đại học Khoa học Tự nhiên
+33
+Lê Lam Sơn
+Nam
+Tiến sĩ
+Hệ thống truyền thông
+7480103
+Kỹ thuật phần mềm
+22
+Trường Đại Học Bách Khoa
+34
+Lê Minh Quốc
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+22
+Viện John Von Neumann
+35
+Lê Nhân Mỹ
+Nam
+Thạc sĩ
+Kinh tế học
+7480104
+Hệ thống thông tin
+10
+Trường Đại học Kinh tế Luật
+36
+Lê Phước Hải
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+9
+Trường Đại học Khoa học Tự nhiên
+37
+Lê Thanh Vân
+Nữ
+Tiến sĩ
+Công nghệ thông tin
+7480102
+Mạng máy tính và truyền thông dữ liệu
+22
+Trường Đại Học Bách Khoa
+38
+Lê Văn Chánh
+Nam
+Thạc sĩ
+Toán
+x
+9
+Trường Đại học Khoa học Tự nhiên
+39
+Lê Văn Hợp
+Nam
+Tiến sĩ
+Toán-Tin học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+22
+Trường Đại học Khoa học Tự nhiên
+40
+Lê Văn Luyện
+Nam
+Tiến sĩ
+Toán
+x
+22
+Trường Đại học Khoa học Tự nhiên
+41
+Lương Vĩ Minh
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+16
+Trường Đại học Khoa học Tự nhiên
+42
+Lưu Thị Xuân Tiên
+Nữ
+Thạc sĩ
+Toán-Tin học
+x
+22
+Trường Đại học Công nghệ thông tin
+43
+Michel Toulouse
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+22
+Trường Đại học Việt Đức – tỉnh Bình Dương
+44
+Ngô Chánh Đức
+Nam
+Thạc sĩ
+Công nghệ thông tin
+x
+8
+Trường Đại học Quốc gia Hồ Chí Minh
+45
+Ngô Hán Chiêu
+Nam
+Thạc sĩ
+Kỹ thuật viễn thông
+7480201
+Công nghệ thông tin
+18
+Viên Khoa học Kỹ thuật Bưu điện - Học viện Công nghệ Bưu chính viễn thông
+46
+Nguyễn Đức Huy
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480102
+Mạng máy tính và truyền thông dữ liệu
+13
+Trường Đại học Quốc gia Hồ Chí Minh
+47
+Nguyễn Henry
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+15
+Trường Đại học Griffith, Australia
+48
+Nguyễn Lưu Như Quỳnh
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+9
+Trường Đại học Đồng Nai
+49
+Nguyễn Minh Tùng
+Nam
+Tiến sĩ
+Toán-Tin học
+7480104
+Hệ thống thông tin
+10
+Trường Đại học Khoa học Tự nhiên
+50
+Nguyễn Phước Trung Hòa
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+13
+Trường Đại học Khoa học Tự nhiên
+51
+Nguyễn Sơn Hoàng Quốc
+Nam
+Tiến sĩ
+Công nghệ Thông tin
+7480201
+Công nghệ thông tin
+11
+Trường Đại học Khoa học Tự nhiên
+52
+Nguyễn Tấn Cầm
+Nam
+Thạc sĩ
+Hệ thống thông tin
+7480104
+Hệ thống thông tin
+13
+Đại học Hoa Sen
+53
+Nguyễn Thành Tâm
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+22
+Trường Đại học Công nghệ
+54
+Nguyễn Thanh Toàn
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480103
+Kỹ thuật phần mềm
+22
+Trường Đại học Công nghệ
+55
+Nguyễn Thị Bích Liên
+Nam
+Tiến sĩ
+Hệ thống thông tin quản lý
+7480104
+Hệ thống thông tin
+27
+Đại học kinh tế Hồ Chí Minh
+56
+Nguyễn Thị Hiên
+Nữ
+Thạc sĩ
+Toán-Tin học
+x
+7
+Trường Đại học Khoa học Tự nhiên
+57
+Nguyễn Thị Hồng Nhung
+Nữ
+Thạc sĩ
+Toán-Tin học
+x
+8
+Trường Đại học Khoa học Tự nhiên
+58
+Nguyễn Thị Hồng Nhung
+Nữ
+Thạc sĩ
+Toán ứng dụng
+x
+22
+Trường Đại học Khoa học Tự nhiên
+59
+Nguyễn Thị Minh Tuyền
+Nữ
+Tiến sĩ
+Công nghệ Thông tin
+7480201
+Công nghệ thông tin
+15
+Trường Đại học Khoa học Tự nhiên
+60
+Nguyễn Thị Thu Vân
+Nữ
+Tiến sĩ
+Toán
+x
+20
+Trường Đại học Khoa học Tự nhiên
+61
+Nguyễn Trần Minh Khuê
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+16
+Ủy ban nhân dân Quận 2
+62
+Nguyễn Trung Trực
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480103
+Kỹ thuật phần mềm
+38
+Trường Đại Học Bách Khoa
+63
+Nguyễn Tuấn Đăng
+Nam
+Phó giáo sư
+Tiến sĩ
+Tin học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+25
+Trường Đại học Sài gòn
+64
+Nguyễn Văn Huy
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480103
+Kỹ thuật phần mềm
+22
+Trường Đại Học Bách Khoa
+65
+Nguyễn Văn Minh Mẫn
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+28
+Trường Đại Học Bách Khoa
+66
+Nguyễn Văn Vũ
+Nam
+Tiến sĩ
+Công nghệ Thông tin
+7480103
+Kỹ thuật phần mềm
+20
+Trường Đại học Khoa học Tự nhiên
+67
+Nguyễn Vũ
+Nam
+Tiến sĩ
+Công nghệ Thông tin
+7480106
+Kỹ thuật máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+68
+Phạm Hoàng Anh
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+15
+Trường Đại Học Bách Khoa
+69
+Phạm Hoàng Uyên
+Nữ
+Tiến sĩ
+Toán
+x
+21
+Trường Đại Học Kinh Tế Luật
+70
+Phan Bách Thắng
+Nam
+Phó giáo sư
+Tiến sĩ
+Toán-Tin học
+7480104
+Hệ thống thông tin
+18
+Trường Đại học Khoa học Tự nhiên
+71
+Phan Phúc Doãn
+Nam
+Thạc sĩ
+Công nghệ Thông tin
+7480106
+Kỹ thuật máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+72
+Phan Thị Phương
+Nữ
+Thạc sĩ
+Toán ứng dụng
+x
+7
+Trường Đại học Khoa học Tự nhiên
+73
+Quản Thành Thơ
+Nam
+Phó giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+21
+Trường Đại Học Bách Khoa
+74
+Tạ Kim Hoàng
+Nữ
+Thạc sĩ
+Tiếng Anh
+x
+8
+Trường Đại học Khoa học xã hội và nhân văn
+75
+Tô Hoài Việt
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+15
+Trường Đại học Sài Gòn
+76
+Tôn Long Phước
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+18
+Trường Đại học Công nghệ
+77
+Trần Anh Dũng
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+22
+Trường Đại học Kỹ thuật Công nghệ
+78
+Trần Minh Triết
+Nam
+Phó giáo sư
+Tiến sĩ
+Tin học
+7480104
+Hệ thống thông tin
+18
+Trường Đại học Khoa học Tự nhiên
+79
+Trần Nguyên Phong
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480201
+Công nghệ thông tin
+9
+Công ty TNHH Tân Hiệp Phát
+80
+Trần Thái Sơn
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480101
+Khoa học máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+81
+Trần Thanh Bình
+Nam
+Thạc sĩ
+Kỹ thuật máy tính
+7480106
+Kỹ thuật máy tính
+8
+Trường Đại Học Bách Khoa
+82
+Trần Thị Hồng
+Nữ
+Phó giáo sư
+Tiến sĩ
+Toán-Tin học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+22
+Trường Đại học Quốc gia Hồ Chí Minh
+83
+Trần Trung Minh
+Nam
+Thạc sĩ
+Toán-Tin học
+x
+22
+Viện John Von Neumann
+84
+Trần Vĩnh Phước
+Nam
+Phó giáo sư
+Tiến sĩ
+Tin học
+7480103
+Kỹ thuật phần mềm
+44
+Trường ĐH Thủ Dầu Một - Bình Dương
+85
+Trịnh Minh Tuấn
+Nam
+Thạc sĩ
+Công nghệ thông tin
+7480102
+Mạng máy tính và truyền thông dữ liệu
+38
+Đại học Công nghệ Thông tin
+86
+Trịnh Ngọc Minh
+Nam
+Tiến sĩ
+Mạng máy tính
+7480104
+Hệ thống thông tin
+25
+Trung tâm Công nghệ phần mềm - ĐHQGHCM - Đã nghỉ hưu
+87
+Trương Thanh Huyền
+Nữ
+Thạc sĩ
+Quản trị kinh doanh
+7480104
+Hệ thống thông tin
+10
+Sàn TMĐT Sendo.vn
+88
+Trương Toàn Thịnh
+Nam
+Thạc sĩ
+Công nghệ Thông tin
+7480106
+Kỹ thuật máy tính
+22
+Trường Đại học Khoa học Tự nhiên
+89
+Ung Văn Giàu
+Nam
+Thạc sĩ
+Khoa học máy tính
+7480106
+Kỹ thuật máy tính
+7
+Trường Đại học Quốc tế Miền Đông
+90
+Võ Đình Bảy
+Nam
+Phó giáo sư
+Tiến sĩ
+Khoa học máy tính
+7480104
+Hệ thống thông tin
+23
+Trường Đại học Công nghệ
+91
+Võ Sĩ Trọng Long
+Nam
+Tiến sĩ
+Toán-Tin học
+7480101
+Khoa học máy tính
+17
+Trường Đại học Khoa học Tự nhiên
+92
+Võ Thị Thanh Loan
+Nữ
+Thạc sĩ
+Công nghệ Thông tin
+7480106
+Kỹ thuật máy tính
+22
+Viện Cơ học và Tin học ứng dụng
+93
+Zhivko P.nedev
+Nam
+Tiến sĩ
+Công nghệ thông tin
+7480104
+Hệ thống thông tin
+22
+Đại học Victoria, Canada
+I. Các thông tin của năm tuyển sinh
+1. Tuyển sinh chính quy trình độ đại học chính quy (không bao gồm liên thông chính quy từ TC, CĐ lên ĐH, ĐH đối với người có bằng ĐH)
+1.1. Đối tượng tuyển sinh:Theo quy định chung của Bộ GD&ĐT và ĐHQG-HCM.
+1.2. Phạm vi tuyển sinh:Cả nước
+1.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển):Xét tuyển
+- Tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT .- Ưu tiên xét tuyển theo quy định của ĐHQG-HCM.- Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2020.- Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2020.- Xét tuyển dựa trên các chứng chỉ quốc tế uy tín.- Xét tuyển dựa trên điều kiện riêng của chương trình đối với chương trình liên kết quốc tế.
+1.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo Ngành/Nhóm ngành/Khối ngành, theo từng phương thức tuyển sinh và trình độ đào tạo
+a) Thông tin danh mục ngành được phép đào tạo: Ghi rõ số, ngày ban hành quyết định chuyển đổi tên ngành của cơ quan có thẩm quyền hoặc quyết định của trường (nếu được cho phép tự chủ) đối với Ngành trong Nhóm ngành, Khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo theo quy định của pháp luật;
+TT
+Tên ngành
+Mã ngành
+Tên ngành
+Số văn bản cho phép mở ngành
+Ngày tháng năm ban hành văn bản cho phép mở ngành
+Trường tự chủ QĐ hoặc Cơ quan có thẩm quyền cho phép
+Năm bắt đầu đào tạo
+Năm đã tuyển sinh và đào tạo gần nhất với năm tuyển sinh
+1
+Khoa học máy tính
+9480101
+Khoa học máy tính
+1467/QĐ-ĐHQG-SĐH
+24/12/2012
+ĐHQG
+2007
+2019
+2
+Công nghệ thông tin
+9480201
+Công nghệ thông tin
+57/QĐ-ĐHQG-ĐH&SĐH
+21/01/2014
+ĐHQG
+2014
+2019
+3
+Công nghệ thông tin
+8480201
+Công nghệ thông tin
+391/QĐ-ĐHQG-ĐH&SĐH
+17/04/2013
+ĐHQG
+2013
+2019
+4
+Khoa học máy tính
+8480101
+Khoa học máy tính
+1467/QĐ-ĐHQG-SĐH
+24/12/2012
+ĐHQG
+2009
+2019
+5
+Hệ thống thông tin
+8480104
+Hệ thống thông tin
+590/QĐ-ĐHCNTT
+09/09/2019
+ĐHCNTT
+2019
+2019
+6
+Khoa học máy tính
+7480101
+Khoa học máy tính
+203/QĐ-ĐH&SĐH
+18/03/2010
+ĐHQG
+2006
+2019
+7
+Mạng máy tính và truyền thông dữ liệu
+7480102
+Mạng máy tính và truyền thông dữ liệu
+1397/QĐ-ĐHQG
+07/12/2017
+ĐHQG
+2006
+2019
+8
+Kỹ thuật phần mềm
+7480103
+Kỹ thuật phần mềm
+1052/ĐHQG-ĐH&SĐH
+08/09/2009
+ĐHQG
+2006
+2019
+9
+Hệ thống thông tin
+7480104
+Hệ thống thông tin
+1052/ĐHQG-ĐHSĐH
+08/09/2009
+ĐHQG
+2006
+2019
+10
+Thương mại điện tử
+7340122
+Thương mại điện tử
+15/QĐ-ĐHQG
+08/01/2018
+ĐHQG
+2018
+2019
+11
+Công nghệ thông tin
+7480201
+Công nghệ thông tin
+225/QĐ-ĐHQG
+03/04/2012
+ĐHQG
+2013
+2019
+12
+An toàn thông tin
+7480202
+An toàn thông tin
+168/ĐHQG-ĐH&SĐH
+06/03/2014
+ĐHQG
+2012
+2019
+13
+Kỹ thuật máy tính
+7480106
+Kỹ thuật máy tính
+1052/ĐHQG-ĐH&SĐH
+08/09/2009
+ĐHQG
+2006
+2019
+14
+Khoa học dữ liệu
+7480109
+Khoa học dữ liệu
+540/QĐ-ĐHCNTT
+05/09/2018
+ĐHCNTT
+2018
+2019
+
+b) Chỉ tiêu tuyển sinh đối với từng ngành/ nhóm ngành/ khối ngành tuyển sinh; theo từng phương thức tuyển sinh và trình độ đào tạo.
+-Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT(tối đa 1% chỉ tiêu)
+-Phương thức 2: Ưu tiên xét tuyển theo quy định của ĐHQG-HCM(tối đa 10% chỉ tiêu).
+-Phương thức 3: Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCMtổ chức năm 2020 (tối đa 23% chỉ tiêu)
+-Phương thức 4: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2020(tối thiểu 65% chỉ tiêu).
+- Phương thức 5: Xét tuyển dựa trên kết quả của các kỳ thi quốc tế uy tín(tối đa 1% chỉ tiêu).
+- Phương thức 6: Xét tuyển theo tiêu chí riêng của chương trình liên kết với ĐH Birmingham City – Anh Quốc, do ĐH Birmingham City cấp bằng  (không tính vào tổng chỉ tiêu)•    Ngành Khoa học máy tính:60 chỉ tiêu.•    Ngành Mạng máy tính và an toàn thông tin:60 chỉ tiêu.
+v Bảng phân bổ chỉ tiêu:
+Stt
+Trình độ đào tạo
+Mã ngành
+Ngành học
+Chỉ tiêu (dự kiến)
+Tổ hợp môn xét tuyển 1
+Tổ hợp môn xét tuyển 2
+Tổ hợp môn xét tuyển 3
+Tổ hợp môn xét tuyển 4
+Theo xét KQ thi THPT QG
+Theo phương thức khác
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+Tổ hợp môn
+Môn chính
+1
+Đại học
+7480101
+Khoa học máy tính
+20
+60
+A00
+A01
+D01
+2
+Đại học
+7480101_TTNT
+Khoa học máy tính (chuyên ngành Trí tuệ nhân tạo)
+10
+25
+A00
+A01
+D01
+3
+Đại học
+7480101_CLCA
+Khoa học máy tính (chất lượng cao)
+30
+90
+A00
+A01
+D01
+4
+Đại học
+7480102
+Mạng máy tính và truyền thông dữ liệu
+20
+55
+A00
+A01
+D01
+5
+Đại học
+7480102_CLCA
+Mạng máy tính và truyền thông dữ liệu (chất lượng cao)
+20
+65
+A00
+A01
+D01
+6
+Đại học
+7480103
+Kỹ thuật phần mềm
+25
+75
+A00
+A01
+D01
+7
+Đại học
+7480103_CLCA
+Kỹ thuật phần mềm (chất lượng cao)
+30
+90
+A00
+A01
+D01
+8
+Đại học
+7480104
+Hệ thống thông tin
+20
+50
+A00
+A01
+D01
+9
+Đại học
+7480104_TT
+Hệ thống thông tin (tiên tiến)
+15
+40
+A00
+A01
+D01
+10
+Đại học
+7480104_CLCA
+Hệ thống thông tin (chất lượng cao)
+15
+50
+A00
+A01
+D01
+11
+Đại học
+7340122
+Thương mại điện tử
+15
+35
+A00
+A01
+D01
+12
+Đại học
+7340122_CLCA
+Thương mại điện tử (chất lượng cao)
+15
+35
+A00
+A01
+D01
+13
+Đại học
+7480201
+Công nghệ thông tin
+25
+75
+A00
+A01
+D01
+14
+Đại học
+7480201_CLCN
+Công nghệ thông tin (chất lượng cao định hướng Nhật Bản)
+30
+90
+A00
+A01
+D01
+15
+Đại học
+7480109
+Khoa học dữ liệu
+15
+40
+A00
+A01
+D01
+16
+Đại học
+7480202
+An toàn thông tin
+15
+50
+A00
+A01
+D01
+17
+Đại học
+7480202_CLCA
+An toàn thông tin (chất lượng cao)
+20
+60
+A00
+A01
+D01
+18
+Đại học
+7480106
+Kỹ thuật máy tính
+15
+35
+A00
+A01
+D01
+19
+Đại học
+7480106_IoT
+Kỹ thuật máy tính (chuyên ngành hệ thống nhúng và IoT)
+10
+25
+A00
+A01
+D01
+20
+Đại học
+7480106_CLCA
+Kỹ thuật máy tính (chất lượng cao)
+25
+65
+A00
+A01
+D01
+21
+Đại học
+7480101_LK
+Khoa học máy tính (Chương trình liên kết với Đại học Birmingham City do Đại học Birmingham City cấp bằng)
+60
+22
+Đại học
+7480102_LK
+Mạng máy tính và An toàn thông tin (Chương trình liên kết với Đại học Birmingham City do Đại học Birmingham City cấp bằng)
+60
+1.5. Ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận hồ sơ ĐKXT:
+a. Ngưỡng đảm bảo chất lượng đầu vào:
+- Đối với phương thức xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2020: mức điểm nhận hồ sơ xét tuyển là19 điểmcho tất cả các ngành và tổ hợp xét tuyển.
+- Đối với phương thức xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2020: mức điểm nhận hồ sơ xét tuyển là600 điểmcho tất cả các ngành xét tuyển.
+b. Điều kiện nhận hồ sơ ĐKXT:
+Điều kiện chung: tốt nghiệp THPT
+*Phương thức 1: Tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT(tối đa 1% chỉ tiêu)
+Đối tượng: Các thí sinh đủ điều kiện xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT và theo thông báo xét tuyển thẳng, ưu tiên xét tuyển của trường Đại học Công nghệ Thông tin (Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, thí sinh đạt giải Học sinh giỏi quốc gia, giải Khoa học kỹ thuật quốc gia, …).
++ Xét tuyển thẳng vào tất cả các ngành:
+- Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn; thí sinh trong đội tuyển quốc gia dự Cuộc thi khoa học, kỹ thuật quốc tế đã tốt nghiệp trung học phổ thông (THPT).
+- Thí sinh đạt giải nhất, nhì, ba môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đạt giải nhất, nhì, ba trong Cuộc thi khoa học kỹ thuật cấp quốc gia đã tốt nghiệp THPT.
+- Thí sinh đạt giải nhất, nhì, ba các nghề Cơ điện tử, Tự động hóa công nghiệp, Robot di động, Điện tử, Thiết kế và phát triển trang Web, Giải pháp phần mềm Công nghệ thông tin, Lắp cáp mạng thông tin, Thiết kế đồ họa, Quản trị hệ thống mạng CNTT trong kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế, nếu có bằng tốt nghiệp trung học phổ thông hoặc bằng tốt nghiệp trung cấp, đã học và thi đạt yêu cầu đủ khối lượng kiến thức văn hóa trung học phổ thông theo quy định của pháp luật.
++ Ưu tiên xét tuyển vào tất cả các ngành:
+- Thí sinh đạt giải các môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đạt giải trong Cuộc thi khoa học kỹ thuật cấp quốc gia đã tốt nghiệp THPT, có kết quả kỳ thi THPT quốc gia đáp ứng tiêu chí đảm bảo chất lượng đầu vào do Trường quy định.
+Thời gian đăng ký xét tuyển (ĐKXT):trước 20/7/2020 (theo quy định và hướng dẫn của Bộ GD&ĐT)
+Cách thức đăng ký:theo Quy chế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dục Mầm non ban hành kèm theo Thông tư 09/2020/TT-BGDĐT ngày 7 tháng 5 năm 2020 của Bộ trưởng Bộ Giáo dục và Đào tạo.
+Hồ sơ đăng ký xét tuyển:theo công văn số 1778/BGDĐT-GDĐH V/v hướng dẫn công tác tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dục Mầm non.
+Công bố kết quả:trước 17 giờ 00 ngày 20/8/2020.
+Thí sinh trúng tuyển xác nhận nhập học:trước ngày 05/9/2020.
+*Phương thức 2: Ưu tiên xét tuyển theo quy định của ĐHQG-HCM(tối đa 10% chỉ tiêu).
+Đối tượng: học sinh của 82 trường chuyên, năng khiếu của các trường đại học thuộc các tỉnh, thành trên toàn quốc; học sinh của 67 trường phổ thông thuộc nhóm 100 trường có điểm trung bình thi THPT cao nhất cả nước trong các năm 2016, 2017, 2018 (theo danh sách do ĐHQG-HCM công bố) thỏa các điều kiện:
+- Tốt nghiệp THPT năm 2020.
+- Có hạnh kiểm tốt trong 3 năm lớp 10, lớp 11 và lớp 12 và đáp ứng một trong các điều kiện sau:
+Số nguyện vọng ĐKXT:tối đa 3 nguyện vọng vào Trường/Khoa/Phân hiệu (đơn vị), không giới hạn số đơn vị (có phân biệt thứ tự nguyện vọng).
+Thời gian ĐKXT:15/7/2020 – 15/8/2020.
+Dự kiến thời gian xét tuyển, lọc ảo và công bố kết quả:24/8/2020 - 30/8/2020
+Dự kiến thí sinh xác nhận nhập học:trước ngày 05/9/2020.
+*Phương thức 3: Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCMtổ chức năm 2020 (tối đa 23% chỉ tiêu)
+Đối tượng: Thí sinh có kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2020.
+Ngưỡng đảm bảo chất lượng đầu vào:600 điểm(cho tất cả các ngành xét tuyển).
+Về việc tổ chức kỳ thi ĐGNL:
+Số nguyện vọng ĐKXT:tối đa 03 nguyện vọng vào một đơn vị, không giới hạn số đơn vị (có phân biệt thứ tự nguyện vọng).
+Thời gian ĐKXT:15/7/2020 – 15/8/2020.
+Dự kiến thời gian xét tuyển, lọc ảo và công bố kết quả:24/8/2020 - 30/8/2020
+Dự kiến thí sinh xác nhận nhập học:trước ngày 05/9/2020.
+*Phương thức 4: Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2020(tối thiểu 65% chỉ tiêu).
+Đối tượng:Thí sinh có kết quả kỳ thi tốt nghiệp THPT năm 2020 và thỏa điều kiện ngưỡng đảm bảo chất lượng đầu vào.
+Ngưỡng đảm bảo chất lượng đầu vào: 19 điểm(cho tất cả các ngành và tổ hợp xét tuyển).
+Phương thức, điều kiện xét tuyển:theo quy chế tuyển sinh và kế hoạch tuyển sinh của Bộ GD&ĐT.
+Tổ hợp môn xét tuyển: A00, A01, D01.
+Điểm xét tuyển là tổng điểm 03 môn thi của tổ hợp môn xét tuyển (không nhân hệ số) cộng điểm ưu tiên khu vực và đối tượng (nếu có). Điểm chuẩn trúng tuyển là giống nhau cho tất cả các tổ hợp xét tuyển.
+Đối với những ngành sử dụng tổ hợp xét tuyển có môn Tiếng Anh (tổ hợp A01, D01):có sử dụng kết quả miễn thi bài thi môn Tiếng Anh.
+Thời gian ĐKXT và hình thức ĐKXT:15/6/2020 – 30/6/2020 (theo kế hoạch tuyển sinh của Bộ GD&ĐT).
+* Phương thức 5:Xét tuyển dựa trên kết quả của các kỳ thi quốc tế uy tín (tối đa 1% chỉ tiêu)
+Đối tượng:
+Điều kiện chung:
+- Có hạnh kiểm tốt trong các năm học ở THPT.
+- Tối thiểu đạt danh hiệu học sinh khá trong các năm học THPT.
+- Có chứng chỉ quốc tế thỏa một trong những điều kiện sau:
+Thời gian ĐKXT:16/6/2020 – 15/8/2020.
+Dự kiến thời gian xét tuyển và công bố kết quả:24/8/2020 - 30/8/2020
+Dự kiến thí sinh xác nhận nhập học:trước ngày 05/9/2020.
+* Phương thức 6: Xét tuyển theo tiêu chí riêng của chương trình liên kết với Đại học Birmingham City – Anh Quốc, do ĐH Birmingham City cấp bằng  (không tính vào tổng chỉ tiêu)
+Điều kiện xét tuyển:Thí sinh tốt nghiệp THPT (Việt Nam hoặc nước ngoài) và đạt chứng chỉ IELTS từ 5.5 (hoặc chứng chỉ khác được Bộ Giáo dục và đào tạo chấp thuận là tương đương).
+Lưu ý: Đối với những thí sinh chưa có chứng chỉ tiếng Anh quốc tế thì phải tham gia kỳ thi tiếng Anh đầu vào do Trường Đại học Công nghệ Thông tin tổ chức. Căn cứ vào kết quả đánh giá tiếng Anh này, những thí sinh chưa đạt chuẩn tiếng Anh đầu vào sẽ phải theo học những lớp bồi dưỡng tiếng Anh do Trường Đại học Công nghệ Thông tin tổ chức.
+1.6. Các thông tin cần thiết khác để thí sinh ĐKXT vào các ngành của trường: mã số trường, mã số ngành, tổ hợp xét tuyển và quy định chênh lệch điểm xét tuyển giữa các tổ hợp; các điều kiện phụ sử dụng trong xét tuyển...
+- Điểm xét tuyển là tổng điểm 03 môn thi của tổ hợp môn xét tuyển (không nhân hệ số) cộng điểm ưu tiên khu vực và đối tượng.
+- Điểm trúng tuyển cho các tổ hợp môn xét tuyển khác nhau của cùng 01 ngành và cùng chương trình xét tuyển là như nhau.
+1.7. Tổ chức tuyển sinh: Thời gian; hình thức nhận hồ sơ ĐKXT/thi tuyển; các điều kiện xét tuyển/thi tuyển, tổ hợp môn thi/bài thi đối với từng ngành đào tạo...
+Theo kế hoạch chung của Bộ GD&ĐT và ĐHQG-HCM.
+1.8. Chính sách ưu tiên: Xét tuyển thẳng; ưu tiên xét tuyển;...
+1.8.1 Đối tượng 1: tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh đại học; tuyển sinh cao đẳng, tuyển sinh trung cấp nhóm ngành đào tạo giáo viên hệ chính quy của Bộ Giáo dục và Đào tạo.
++ Xét tuyển thẳng vào tất cả các ngành:
+- Thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn; thí sinh trong đội tuyển quốc gia dự Cuộc thi khoa học, kỹ thuật quốc tế đã tốt nghiệp trung học phổ thông (THPT).
+- Thí sinh đạt giải nhất, nhì, ba môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đạt giải nhất, nhì, ba trong Cuộc thi khoa học kỹ thuật cấp quốc gia đã tốt nghiệp THPT.
+- Thí sinh đạt giải nhất, nhì, ba các nghề Cơ điện tử, Tự động hóa công nghiệp, Robot di động, Điện tử, Thiết kế và phát triển trang Web, Giải pháp phần mềm Công nghệ thông tin, Lắp cáp mạng thông tin, Thiết kế đồ họa, Quản trị hệ thống mạng CNTT trong kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế, nếu có bằng tốt nghiệp trung học phổ thông hoặc bằng tốt nghiệp trung cấp, đã học và thi đạt yêu cầu đủ khối lượng kiến thức văn hóa trung học phổ thông theo quy định của pháp luật.
++ Ưu tiên xét tuyển vào tất cả các ngành:
+- Thí sinh đạt giải các môn Tin học, Toán, Vật lý, Hóa học, Anh văn, Ngữ văn trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đạt giải trong Cuộc thi khoa học kỹ thuật cấp quốc gia đã tốt nghiệp THPT, có kết quả kỳ thi THPT quốc gia đáp ứng tiêu chí đảm bảo chất lượng đầu vào do Trường quy định.
+1.8.2 Đối tượng 2: ưu tiên xét tuyển theo quy định của ĐHQG-HCM.
+Ưu tiên xét tuyển vào tất cả các ngành:
+- Đối tượng: học sinh của 82 trường chuyên, năng khiếu của các trường đại học thuộc các tỉnh, thành trên toàn quốc; học sinh của 68 trường phổ thông thuộc nhóm 100 trường có điểm trung bình thi THPT cao nhất cả nước trong các năm 2017, 2018, 2019 (theo danh sách do ĐHQG-HCM công bố) thỏa các điều kiện:
+(thông tin chi tiết trên webstie:https://tuyensinh.uit.edu.vn/)
+1.9. Lệ phí xét tuyển/thi tuyển...
+Lệ phí xét tuyển: theo quy định.
+1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có)
+- Học phí dự kiến với sinh viên chính quy năm học 2020-2021 chương trình đại trà là:20.000.000đồng/năm học (trong trường hợp đề án thí điểm tự chủ của Trường ĐH. CNTT được phê duyệt).
+- Lộ trình tăng học phí tối đa cho từng năm:
+STT
+Hệ đào tạo
+Học phí dự kiến năm học 2020-2021 (đồng/năm học)
+Học phí dự kiến năm học 2021-2022 (đồng/năm học)
+Học phí dự kiến năm học 2022-2023 (đồng/năm học)
+Học phí dự kiến năm học 2023-2024 (đồng/năm học)
+1
+Chính quy
+20.000.000
+22.000.000
+24.000.000
+26.000.000
+2
+Chương trình chất lượng cao
+35.000.000
+35.000.000
+40.000.000
+40.000.000
+3
+Chương trình tiên tiến
+40.000.000
+45.000.000
+50.000.000
+50.000.000
+4
+Chương trình liên kết (Đại học Birmingham City) (3.5 năm)
+80.000.000
+80.000.000
+138.000.000
+1.11. Các nội dung khác (không trái quy định hiện hành)....:Không có
+1.12.Thông tin triểnkhai đào tạo ưu tiên trong đào tạo nguồn nhân lực lĩnh vực Du lịch/ Công nghệ thông tin trình độ đại học (xác định rõ theo từng giai đoạn với thời gian xác định cụ thể).
+1.12.1. Tên doanh nghiệp các nội dung hợp tác giữa cơ sở đào tạo và doanh nghiệp đối tác và trách nhiệm của mỗi bên; trách nhiện đảm bảo việc làm của sinh viên sau tốt nghiệp.
+STT
+Doanh nghiệp
+Năm bắt đầu hợp tác
+Năm kết thúc hợp tác
+Nội dung hợp tác
+1
+Công ty KMS Technology Việt Nam
+01/2020
+01/2021
+Hai bên hợp tác triển khai các hoạt động và sự kiện được liệt kê trong lịch trình các hoạt động hợp tác với mục tiêu cuối cùng là mang lại lợi ích như sau đến sinh viên và giảng viên cũng như công việc giảng dạy của Khoa:
+1. Tư vấn và hướng nghiệp đến sinh viên
+2. Cập nhật các thực hành, kỹ thuật cũng như các công nghệ tiên tiến từ phía doanh nghiệp đến sinh viên và giảng viên
+3. Giới thiệu và quảng bá các cơ hội về phát triển nghề nghiệp tại công ty KMS đến với sinh viên
+Các hoạt động, sự kiện cụ thể trong từng năm sẽ được điều chỉnh xem xét và sửa đổi thường niên, nhằm đảo bảo tốt nhất các mục tiêu chung đặt ra ở trên.
+2
+Công ty Dek Technologies Việt Nam
+22/7/2016
+22/7/2021
+Hai Bên hợp tác triển khai các hoạt động:
+1. Tham quan công ty Dek Technologies Việt Nam
+2. Tổ chức các chương trình thực tập tại Công ty TNHH Dek Technologies Việt Nam
+3. Tổ chức các buổi hướng nghiệp/hội thảo chuyên đề cho các bạn sinh viên của UIT
+4. Hỗ trợ các hoạt động và cuộc thi liên quan tới học thuật mà UIT có tổ chức trong năm
+3
+Công ty Bkav
+19/9/2016
+Không thời hạn
+1. Đưa các nghiên cứu khoa học của cán bộ, giáo viên và học viên có tính khả thi ứng dụng vào trong thực tế thành các giải pháp, sản phẩm công nghệ
+2. Phối hợp hỗ trợ, trao đổi thông tin, nhân lực trong công tác ra đề, tổ chức và chấm thi các cuộc thi về an ninh mạng có tầm quốc gia và quốc tế
+3. Cử cán bộ, học viên của UIT tham gia quản trị diễn đàn An ninh mạng Whitehat, và BKAV tham gia làm thành viên của Câu lạc bộ An ninh mạng của UIT
+4
+Công ty PwC (Việt Nam)
+13/10/2017
+10/2022
+1. Ứng dụng kết quả đào tạo, nghiên cứu khoa học và ứng dụng công nghệ nhằm đào tạo sinh viên có trình độ chuyên môn cao
+2. Thông qua quá trình phối hợp đào tạo nhằm tăng cường công tác tuyên truyền và quảng bá thương hiệu cho hai bên
+5
+- Công ty ROSEN
+01/05/2017
+05/2022
+1. Hợp tác chung trong việc phát triển phần mềm ở những lĩnh vực liên quan của ROSEN phát triển sản phẩm và dịch vụ dựa trên chương trình đào tạo mà UIT xây dựng
+2. Tài trợ kinh phí, lựa chọn nhân tài, xây dựng nhóm phát triển điều hành, thực tập, tìm kiếm cơ hội học tiến sĩ.
+6
+Công ty VINTECH
+8/2018
+8/2021
+1. Tài trợ các dự án nghiên cứu khoa học – công nghệ
+2. Trao đổi, học hỏi kinh nghiệm cho các giáo sư, nhà nghiên cứu, sinh viên
+3. Hợp tác về giảng dạy và chia sẻ tri thức
+4. Hợp tác về cung cấp nguồn nhân lực chất lượng cao
+7
+Công ty MEC
+01/2019
+01/2024
+1. UIT gửi sinh viên qua MEC thực tập ngắn và trung hạn
+2. MEC hỗ trợ về tài chính
+3. Giới thiệu thông tin công ty MEC đến sinh viên
+8
+Công ty CityNow
+07/09/2017
+08/2022
+1. Đào tạo nhân lực CNTT có kỹ năng tiếng Nhật với định hướng làm việc tại Nhật Bản
+2. Hỗ trợ sinh viên, học viên cao học UIT tìm cơ hội việc làm tại Nhật Bản
+3. Xây dựng chương trình chất lượng cao nhân lực CNTT có kỹ năng tiếng Nhật
+1.12.2. Tổng số GV cơ hữu quy đổi; tổng số GV thỉnh giảng quy đổi; tổng số chỉ tiêu theo quy định chung; tổng số chỉ tiêu tăng thêm theo quy định đặc thù
+a. Giảng viên cơ hữu ngành tham gia giảng dạy trình độ ĐH
+STT
+Khối ngành
+Mã ngành
+GS.TS/GS.TSKH
+PGS.TS/PGS.TSKH
+TS/TSKH
+Thạc sĩ
+Đại học
+Tổng cộng cơ hữu quy đổi
+1
+Khối ngành I
+2
+Khối ngành II
+3
+Khối ngành III
+3.1
+Thương mại điện tử
+7340122
+0
+0
+1
+9
+0
+11
+4
+Khối ngành IV
+5
+Khối ngành V
+5.1
+Công nghệ thông tin
+7480201
+0
+1
+6
+11
+0
+26
+5.2
+Khoa học máy tính
+7480101
+1
+1
+7
+6
+3
+28.9
+5.3
+Mạng máy tính và truyền thông dữ liệu
+7480102
+0
+1
+4
+11
+6
+23.8
+5.4
+Kỹ thuật phần mềm
+7480103
+0
+0
+8
+21
+0
+37
+5.5
+Hệ thống thông tin
+7480104
+0
+2
+8
+13
+2
+35.6
+5.6
+Kỹ thuật máy tính
+7480106
+0
+2
+3
+15
+2
+27.6
+5.7
+An toàn thông tin
+7480202
+0
+0
+6
+9
+3
+21.9
+5.8
+Khoa học dữ liệu
+7480109
+0
+0
+1
+9
+0
+11
+6
+Khối ngành VI
+7
+Khối ngành VII
+b. Giảng viên thỉnh giảng tham gia giảng dạy trình độ đại học theo khối ngành (Người)
+STT
+Khối ngành
+Mã ngành
+GS.TS/GS.TSKH
+PGS.TS/PGS.TSKH
+TS.TSKH
+Thạc sĩ
+Đại học
+Tổng cộng quy đổi thỉnh giảng
+(Đối với ngành đào tạo ưu tiên)
+1
+Khối ngành I
+
+
+
+
+
+
+
+2
+Khối ngành II
+
+
+
+
+
+
+
+3
+Khối ngành III
+
+
+
+
+
+
+
+3.1
+Thương mại điện tử
+7340122
+0
+0
+0
+0
+0
+0
+4
+Khối ngành IV
+
+
+
+
+
+
+
+5
+Khối ngành V
+
+
+
+
+
+
+
+5.1
+Công nghệ thông tin
+7480201
+1
+2
+4
+3
+0
+11
+5.2
+Khoa học máy tính
+7480101
+2
+1
+8
+0
+0
+14.5
+5.3
+Mạng máy tính và truyền thông dữ liệu
+7480102
+0
+3
+2
+5
+0
+9
+5.4
+Kỹ thuật phần mềm
+7480103
+1
+1
+5
+3
+0
+10.5
+5.5
+Hệ thống thông tin
+7480104
+0
+4
+7
+5
+0
+15.5
+5.6
+Kỹ thuật máy tính
+7480106
+0
+0
+1
+10
+0
+6
+5.7
+An toàn thông tin
+7480202
+1
+1
+0
+0
+0
+4
+5.8
+Khoa học dữ liệu
+7480109
+0
+0
+0
+0
+0
+0
+6
+Khối ngành VI
+
+
+
+
+
+
+
+7
+Khối ngành VII
+
+
+
+
+
+
+
+c. Tổng chỉ tiêu tuyển sinh
+STT
+Khối ngành
+Mã ngành
+Tổng số chí tiêu theo quy định chung
+Tổng số chỉ tiêu tăng thêm theo quy định đặc thù
+1
+Khối ngành I
+2
+Khối ngành II
+3
+Khối ngành III
+3.1
+Thương mại điện tử
+7340122
+100
+0
+4
+Khối ngành IV
+5
+Khối ngành V
+5.1
+Công nghệ thông tin
+7480201
+156
+64
+5.2
+Khoa học máy tính
+7480101
+181
+54
+5.3
+Mạng máy tính và truyền thông dữ liệu
+7480102
+147
+13
+5.4
+Kỹ thuật phần mềm
+7480103
+143
+77
+5.5
+Hệ thống thông tin
+7480104
+137
+53
+5.6
+Kỹ thuật máy tính
+7480106
+114
+61
+5.7
+An toàn thông tin
+7480202
+95
+50
+5.8
+Khoa học dữ liệu
+7480109
+55
+0
+6
+Khối ngành VI
+7
+Khối ngành VII
+1.12.3. Các thông tin khác triển khai áp dụng cơ chế đặc thù trong đào tạo nguồn nhân lực lĩnh vực Du lịch/ Công nghệ thông tin trình độ đại học.(không trái quy định hiện hành)....:
+1.13. Tình hình việc làm (thống kê cho 2 khóa tốt nghiệp gần nhất)
+1.13. Năm tuyển sinh 2019
+Nhóm ngành
+Chỉ tiêu Tuyển sinh
+Số SV trúng tuyển nhập học
+Số SV tốt nghiệp
+Trong đó tỷ lệ SV tốt nghiệp đã có việc làm thống kê cho khóa tốt nghiệp gần nhất đã khảo sát so với năm tuyển sinh
+ĐH
+CĐSP
+ĐH
+CĐSP
+ĐH
+CĐSP
+ĐH
+CĐSP
+Khối ngành I
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành II
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành III
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành IV
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành V
+1000
+0
+997
+0
+390
+0
+98.7
+0
+Khối ngành VI
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành VII
+0
+0
+0
+0
+0
+0
+0
+0
+Tổng
+1000
+0
+997
+0
+390
+0
+0
+0
+1.13.2. Năm tuyển sinh 2018
+Nhóm ngành
+Chỉ tiêu Tuyển sinh
+Số SV trúng tuyển nhập học
+Số SV tốt nghiệp
+Trong đó tỷ lệ SV tốt nghiệp đã có việc làm thống kê cho khóa tốt nghiệp gần nhất đã khảo sát so với năm tuyển sinh
+ĐH
+CĐSP
+ĐH
+CĐSP
+ĐH
+CĐSP
+ĐH
+CĐSP
+Khối ngành I
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành II
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành III
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành IV
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành V
+1000
+0
+965
+0
+560
+0
+97
+0
+Khối ngành VI
+0
+0
+0
+0
+0
+0
+0
+0
+Khối ngành VII
+0
+0
+0
+0
+0
+0
+0
+0
+Tổng
+1000
+0
+965
+0
+560
+0
+0
+0
+1.14.Tài chính
+-Tổng nguồn thu hợp pháp/năm của trường: 107 tỷ đồng chẵn.
+- Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh: 26.5 triệu đồng.
+2. Tuyển sinh Đại học đối với người đã có bằng Đại học
+2.1. Đối tượng tuyển sinh
+Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự.
+- Đã có bằng tốt nghiệp Đại học. Trường hợp văn bằng thứ nhất do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.
+2.2. Phạm vi tuyển sinh :Cả nước
+2.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển): Xét tuyển
+2.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo Ngành, theo từng phương thức tuyển sinh và trình độ đào tạo(chỉ tiêu nằm trong chỉ tiêu được ĐHQG-HCM xác định năm 2020)
+Stt
+Mã ngành
+Tên ngành
+Chỉ tiêu chính quy (dự kiến)
+Chỉ tiêu VLVH
+Số QĐ đào tạo VB2
+Ngày tháng năm ban hành QĐ
+Cơ quan có TQ cho phép hoặc trường tự chủ QĐ
+Năm bắt đầu đào tạo
+(dự kiến)
+1
+7480201
+Công nghệ thông tin
+50
+1485/QĐ-ĐHQG
+25/11/2019
+ĐHQG-HCM
+2019
+2.5. Ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận hồ sơ ĐKXT:Điều kiện nhận hồ sơ ĐKXT: Đã có bằng tốt nghiệp đại học.
+2.6. Các thông tin cần thiết khác để thí sinh ĐKXT vào các ngành của trường:Không có.
+2.7. Tổ chức tuyển sinh: Thời gian; hình thức nhận hồ sơ ĐKXT/thi tuyển; các điều kiện xét tuyển/thi tuyển, tổ hợp môn thi/bài thi đối với từng ngành đào tạo...
+Điều kiện nhận hồ sơ ĐKXT:Đã có bằng tốt nghiệp đại học.
+Đăng ký và nộp hồ sơ dự tuyển:
+2.8. Lệ phí xét tuyển/thi tuyển...
+Lệ phí xét tuyển: theo quy định.
+2.9. Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có)
+- Lộ trình tăng học phí tối đa cho từng năm:
+STT
+Hệ đào tạo
+Học phí dự kiến năm học 2020-2021 (đồng/năm học)
+Học phí dự kiến năm học 2021-2022 (đồng/năm học)
+Học phí dự kiến học kỳ cuối
+(đồng/học kỳ)
+1
+Văn bằng 2
+35.000.000
+35.000.000
+20.000.000
+2.10. Các nội dung khác (không trái quy định hiện hành)....Không có
