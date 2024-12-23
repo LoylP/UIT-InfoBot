@@ -1,6 +1,15 @@
 requests
+beautifulsoup4
+urllib3
 bs4
 pandas
 transformers
 torch
 nltk
+dotenv
+google-generativeai
+sqlalchemy 
+psycopg2 
+faiss-cpu 
+rank_bm25 
+sentence_transformers

@@ -1,55 +1,34 @@
-import underthesea
-from spellchecker import SpellChecker
-from transformers import T5Tokenizer, T5ForConditionalGeneration
-import torch
+from src.database import init_database, get_qa_data
+from src.search_engine import SearchEngine
+from src.chatbot import Chatbot
+from src.utils import load_api_key
 
-# Tải mô hình T5
-tokenizer_t5 = T5Tokenizer.from_pretrained('t5-base')
-model_t5 = T5ForConditionalGeneration.from_pretrained('t5-base')
-
-# Hàm sửa lỗi chính tả bằng thư viện SpellChecker
-def correct_spelling(text):
-    spell = SpellChecker(language='vi')
-    words = text.split()
-    corrected_text = ' '.join([spell.correction(word) if spell.unknown([word]) else word for word in words])
-    return corrected_text
-
-# Hàm mở rộng ngữ nghĩa với mô hình T5
-def expand_meaning(text):
-    input_text = f"expand: {text}"  # Thêm prompt yêu cầu mở rộng ngữ nghĩa
-    inputs = tokenizer_t5(input_text, return_tensors="pt", max_length=512, truncation=True)
-    with torch.no_grad():
-        outputs = model_t5.generate(inputs['input_ids'], max_length=512, num_beams=5, no_repeat_ngram_size=2, early_stopping=True)
-    expanded_text = tokenizer_t5.decode(outputs[0], skip_special_tokens=True)
-    return expanded_text
-
-# Hàm sử dụng Underthesea để phân tích câu văn
-def process_with_underthesea(text):
-    # Tách từ và gán nhãn
-    words = underthesea.word_tokenize(text)
-    print(f"Tách từ: {words}")
+def main():
+    print("Initializing database...")
+    init_database()
     
-    # Nhận diện thực thể (nếu có)
-    named_entities = underthesea.ner(text)
-    print(f"Nhận diện thực thể: {named_entities}")
+    df = get_qa_data()
     
-    return words
+    print("Initializing search engine...")
+    search_engine = SearchEngine(
+        questions=df['Question'].tolist(),
+        answers=df['Answer'].tolist(),
+        output_dir="src/vector_db"
+    )
+    
+    print("Initializing chatbot...")
+    api_key = load_api_key()
+    chatbot = Chatbot(api_key)
+    
+    while True:
+        query = input("\nEnter your question (or 'quit' to exit): ")
+        if query.lower() == 'quit':
+            break
+            
+        relevant_qa = search_engine.search(query)
+        
+        response = chatbot.generate_response(query, relevant_qa)
+        print("\nResponse:", response)
 
-# Hàm chính xử lý văn bản
-def process_text(text):
-    # Sửa lỗi chính tả
-    corrected_text = correct_spelling(text)
-    print(f"Đã sửa lỗi chính tả: {corrected_text}")
-    
-    # Mở rộng ngữ nghĩa
-    expanded_text = expand_meaning(corrected_text)
-    print(f"Đã mở rộng ngữ nghĩa: {expanded_text}")
-    
-    # Xử lý với Underthesea (tách từ và nhận diện thực thể)
-    processed_text = process_with_underthesea(expanded_text)
-    
-    return processed_text
-
-# Ví dụ
-input_text = "Hôm nay tôi rất vui vẽ đi học và gặp các bạn"
-processed_text = process_text(input_text)
+if __name__ == "__main__":
+    main()
