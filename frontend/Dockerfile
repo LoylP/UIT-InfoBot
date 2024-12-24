@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:20-alpine
 
 # Set the working directory
 WORKDIR /app
@@ -16,7 +16,7 @@ COPY . /app/
 RUN npm run build
 
 # Expose the port Next.js is running on
-EXPOSE 3000
+EXPOSE 8080
 
 # Run Next.js in production mode
 CMD ["npm", "start"]

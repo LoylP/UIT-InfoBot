@@ -41,7 +41,7 @@ const Screen = () => {
       setIsLoading(true);
 
       try {
-        const response = await fetch(`http://127.0.0.1:8000/ask?query=${encodeURIComponent(userMessage)}`, {
+        const response = await fetch(`http://10.102.196.135:8000/ask?query=${encodeURIComponent(userMessage)}`, {
           method: "GET",
         });
         const { response: botResponse } = await response.json();
