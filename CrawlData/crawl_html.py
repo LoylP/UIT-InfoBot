@@ -84,7 +84,7 @@ class Crawler_Html:
         
         file_name = urllib.parse.quote(url.split("/")[-1], safe = "")
         
-        folder_path = os.path.join("./", self.output_folder, "txt")
+        folder_path = os.path.join("./", self.output_folder, "data_crawl")
         os.makedirs(folder_path, exist_ok=True) 
         
         file_path = f"{folder_path}/{file_name}.txt"

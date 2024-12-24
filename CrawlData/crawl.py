@@ -23,6 +23,6 @@ else:
         text_content += p.get_text(separator=' ', strip=True) + "\n"
 
     # Lưu nội dung vào file .txt
-    with open("../Document/thanhtich.txt", "w", encoding="utf-8") as file:
+    with open("Document/thanhtich.txt", "w", encoding="utf-8") as file:
         file.write(text_content)
 

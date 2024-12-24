@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from src.database import init_database, get_qa_data
 from src.search_engine import SearchEngine
@@ -6,6 +7,14 @@ from src.chatbot import Chatbot
 from src.utils import load_api_key
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  
+    allow_credentials=True,
+    allow_methods=["*"],  
+    allow_headers=["*"],  
+)
 
 print("Initializing database...")
 init_database()
@@ -30,9 +39,8 @@ async def read_root():
     return {"message": "Welcome to the chatbot API!"}
 
 # endpoint get input_query
-@app.post("/ask")
-async def ask_question(request: QueryRequest):
-    query = request.query
+@app.get("/ask")
+async def ask_question(query: str):
     if query.lower() == 'quit':
         return {"message": "Exiting chatbot."}
     
