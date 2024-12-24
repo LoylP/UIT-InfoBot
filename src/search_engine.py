@@ -45,5 +45,5 @@ class SearchEngine:
                 [vector_result]
             ))
         
-        print("ketqua: ", results)
+        # print("ketqua: ", results)
         return results
