@@ -79,15 +79,6 @@ const Screen = () => {
     setChatHistory(chatHistory.slice(0, index));
   };
 
-  // Loading animation component
-  const LoadingDots = () => (
-    <div className="flex items-center gap-1">
-      <span className="animate-bounce delay-0">.</span>
-      <span className="animate-bounce delay-100">.</span>
-      <span className="animate-bounce delay-200">.</span>
-    </div>
-  );
-
   // Custom components for markdown rendering
   const markdownComponents = {
     p: ({ children }: MarkdownComponentProps) => <p className="mb-2">{children}</p>,
