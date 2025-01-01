@@ -39,7 +39,7 @@ class TextProcessor:
 #     print("Loading vector database...")
 #     processor.load_index(output_dir)
     
-#     query = "Quy đổi điểm IELTS như thế nào"
+#     query = "Làm sao để vào chương trình tài năng"
 #     print(f"Searching for: {query}")
     
 #     results = processor.search(query, k=3)
