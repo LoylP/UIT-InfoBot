@@ -6,7 +6,6 @@ from src.utils import load_api_key
 def main():
     print("Initializing database...")
     init_database()
-    
     df = get_qa_data()
     
     print("Initializing search engine...")
@@ -25,7 +24,8 @@ def main():
         if query.lower() == 'quit':
             break
             
-        relevant_qa = search_engine.search(query)
+        relevant_qa, source_file = search_engine.search(query)
+        print("source: ", source_file)
         
         response = chatbot.generate_response(query, relevant_qa)
         print("\nResponse:", response)

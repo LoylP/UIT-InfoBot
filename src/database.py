@@ -7,7 +7,7 @@ def init_database():
     df = pd.read_csv('data/question_answer.csv')
     df.to_sql('qa_table', con=engine, if_exists='replace', index=False)
 
-    history_df = pd.DataFrame(columns=["user", "chatbot", "timestamp"]) 
+    history_df = pd.DataFrame(columns=["user", "chatbot", "timestamp", "sources"]) 
     history_df.to_sql('history_table', con=engine, if_exists='replace', index=False)
 
     return df
@@ -26,12 +26,15 @@ def add_data_to_database(path_data):
 
     combined_data.to_sql('qa_table', con=engine, if_exists='replace', index=False)
 
-def save_history(user, chatbot):
+def save_history(user, chatbot, sources):
     engine = create_engine('sqlite:///qa_database.db')
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    history_df = pd.DataFrame([{"user": user,
-                                "chatbot": chatbot,
-                                "timestamp": timestamp}])
+    history_df = pd.DataFrame([{
+        "user": user,
+        "chatbot": chatbot,
+        "sources": ", ".join(sources),  # Lưu danh sách sources dưới dạng chuỗi
+        "timestamp": timestamp
+    }])
 
     history_df.to_sql('history_table', con=engine, if_exists='append', index=False)
 

@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from src.database import init_database, get_qa_data
+from src.database import init_database, get_qa_data, save_history, get_history
 from src.search_engine import SearchEngine
 from src.chatbot import Chatbot
 from src.utils import load_api_key
@@ -44,9 +44,18 @@ async def ask_question(query: str):
     if query.lower() == 'quit':
         return {"message": "Exiting chatbot."}
     
-    relevant_qa = search_engine.search(query)
+    relevant_qa, sources = search_engine.search(query)
     response = chatbot.generate_response(query, relevant_qa)
+
+    save_history(query, response, sources)
+
     return {"response": response}
+
+# endpoint get history of user_chat and chatbot_response
+@app.get("/history")
+async def show_history():
+    history = get_history()
+    return history.to_dict(orient="records")
 
 if __name__== "__main__":
     import uvicorn

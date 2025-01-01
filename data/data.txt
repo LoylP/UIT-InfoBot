@@ -1,0 +1,53 @@
+Điểm chuẩn 2024 của trường Đại học Công nghệ Thông tin (UIT) theo từng ngành.
+
+Thương mại điện tử
+- Mã ngành: 7340122
+- Điểm chuẩn: 26.12
+
+Khoa học dữ liệu
+- Mã ngành: 7460108
+- Điểm chuẩn: 27.5
+
+Khoa học máy tính
+- Mã ngành: 7480101
+- Điểm chuẩn: 27.3
+
+Trí tuệ nhân tạo
+- Mã ngành: 7480107
+- Điểm chuẩn: 28.3
+
+Mạng máy tính và truyền thông dữ liệu
+- Mã ngành: 7480102
+- Điểm chuẩn: 25.7
+
+Kỹ thuật phần mềm
+- Mã ngành: 7480103
+- Điểm chuẩn: 26.85
+
+Hệ thống thông tin
+- Mã ngành: 7480104
+- Điểm chuẩn: 26.25
+
+Hệ thống thông tin (Chương trình tiên tiến)
+- Mã ngành: 7480104_TT
+- Điểm chuẩn: 25.55
+
+Kỹ thuật máy tính
+- Mã ngành: 7480106
+- Điểm chuẩn: 26.25
+
+Công nghệ thông tin
+- Mã ngành: 7480201
+- Điểm chuẩn: 27.1
+
+Công nghệ thông tin (Việt - Nhật)
+- Mã ngành: 7480201_N
+- Điểm chuẩn: 25.55
+
+An toàn thông tin
+- Mã ngành: 7480202
+- Điểm chuẩn: 26.77
+
+Thiết kế vi mạch
+- Mã ngành: 7520201
+- Điểm chuẩn: 26.5

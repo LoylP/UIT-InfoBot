@@ -1,6 +1,7 @@
 requests
 beautifulsoup4
 urllib3
+python-docx
 bs4
 pandas
 transformers

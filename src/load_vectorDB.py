@@ -32,19 +32,19 @@ class TextProcessor:
         
         return results
 
-# if __name__ == "__main__":
-#     output_dir = "vector_db"
-#     processor = TextProcessor()
+if __name__ == "__main__":
+    output_dir = "vector_db"
+    processor = TextProcessor()
     
-#     print("Loading vector database...")
-#     processor.load_index(output_dir)
+    print("Loading vector database...")
+    processor.load_index(output_dir)
     
-#     query = "Làm sao để vào chương trình tài năng"
-#     print(f"Searching for: {query}")
+    query = "Điểm chuẩn UIT"
+    print(f"Searching for: {query}")
     
-#     results = processor.search(query, k=3)
-#     print("\nSearch results:")
-#     for result in results:
-#         print(f"\nFile: {result['source']}")
-#         print(f"Text: {result['text'][:]}")  
-#         print(f"Distance: {result['distance']:.4f}")
+    results = processor.search(query, k=3)
+    print("\nSearch results:")
+    for result in results:
+        print(f"\nFile: {result['source']}")
+        print(f"Text: {result['text'][:]}")  
+        print(f"Distance: {result['distance']:.4f}")

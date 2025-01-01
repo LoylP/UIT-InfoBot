@@ -34,9 +34,11 @@ class SearchEngine:
         
         # Get top results from vector search
         vector_search_results = self.text_processor.search(query, k=top_k)
-        
+        # print("vector: ", vector_search_results)
+
         # Combine results
         results = bm25_results
+        sources = []
         for vector_result in vector_search_results:
             results.append((
                 vector_result['text'],
@@ -44,6 +46,8 @@ class SearchEngine:
                 0.0,
                 [vector_result]
             ))
+            if 'source' in vector_result:
+                sources.append(vector_result['source'])
         
         # print("ketqua: ", results)
-        return results
+        return results, sources

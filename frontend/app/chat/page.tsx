@@ -7,15 +7,14 @@ import ava from "../../assets/ava.svg";
 import submit from "../../assets/submit.svg";
 import button_return from "../../assets/return.svg";
 import rewrite from "../../assets/rewrite.svg";
+import loading from "../../assets/loading.gif";
 import Link from "next/link";
 
-// Define types for chat messages
 interface ChatMessage {
   user: string;
   bot: string | null;
 }
 
-// Define types for markdown components props
 interface MarkdownComponentProps {
   children: React.ReactNode;
 }
@@ -41,9 +40,13 @@ const Screen = () => {
       setIsLoading(true);
 
       try {
-        const response = await fetch(`http://10.102.196.135:8000/ask?query=${encodeURIComponent(userMessage)}`, {
+        const response = await fetch(`http://127.0.0.1:8000/ask?query=${encodeURIComponent(userMessage)}`, {
           method: "GET",
+          headers: {
+            'Accept': 'application/json',
+          },
         });
+        
         const { response: botResponse } = await response.json();
         
         setChatHistory(prev => prev.map((msg, idx) => 
@@ -136,7 +139,23 @@ const Screen = () => {
               </div>
               
               {/* Bot Message */}
-              {entry.bot !== null && (
+              {entry.bot === null && isLoading && index === chatHistory.length - 1 ? (
+              <div className="flex items-start gap-2">
+                <Image
+                  src={ava}
+                  alt="Avatar"
+                  width={32}
+                  height={32}
+                  className="mt-1"
+                />
+                <div className="bg-white rounded-2xl px-4 py-3 max-w-[80%] text-[#0D2849]">
+                  <div className="flex items-center h-6 text-2xl font-bold">
+                    <Image src={loading} alt="Loading" width={56} height={96} />
+                  </div>
+                </div>
+              </div>
+            ) : (
+              entry.bot !== null && (
                 <div className="flex items-start gap-2">
                   <Image
                     src={ava}
@@ -146,21 +165,16 @@ const Screen = () => {
                     className="mt-1"
                   />
                   <div className="bg-white rounded-2xl px-4 py-3 max-w-[80%] text-[#0D2849]">
-                    {entry.bot ? (
-                      <ReactMarkdown 
-                        components={markdownComponents}
-                        className="prose prose-sm max-w-none"
-                      >
-                        {entry.bot.replace(/\*\*/g, '**').replace(/\n/g, '  \n')}
-                      </ReactMarkdown>
-                    ) : (
-                      <div className="flex items-center h-6 text-2xl font-bold">
-                        <LoadingDots />
-                      </div>
-                    )}
+                    <ReactMarkdown 
+                      components={markdownComponents}
+                      className="prose prose-sm max-w-none"
+                    >
+                      {entry.bot.replace(/\*\*/g, '**').replace(/\n/g, '  \n')}
+                    </ReactMarkdown>
                   </div>
                 </div>
-              )}
+              )
+            )}
             </div>
           ))}
         </div>
